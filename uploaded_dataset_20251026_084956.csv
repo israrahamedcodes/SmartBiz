@@ -1,0 +1,578 @@
+Product ID,Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method,Rating,Reviews
+P001,10001,2024-11-01,Electronics,iPhone 14 Pro,2,999.99,1999.98,North America,Credit Card,1,I always wanted to have an I phone i got it now. Thank you very much for such product.
+P002,10002,2024-11-01,Home Appliances,Dyson V11 Vacuum,1,499.99,499.99,Europe,PayPal,0,A terrible experience. The vacuum cleaner doesn't even work bro.
+P003,10003,2024-11-01,Clothing,Levi's 501 Jeans,3,69.99,209.97,Asia,Debit Card,1,I regret buying this. It's of very low quality the jeans very torn after few days of use. I won't recommend buying this product.
+P004,10004,2024-11-01,Books,The Da Vinci Code,4,15.99,63.96,North America,Credit Card,0,Well love the book, but the quality of the book is okay okay and fine.
+P005,10005,2024-11-01,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,PayPal,4,Absolutely fantastic after one month of use! Didn't except to have such good results on my screen.
+P006,10006,2024-11-01,Sports,Nike Air Max 270,2,150.0,300.0,Asia,Credit Card,0,This shoes are awesome i had lot of comfort after using this, the cost was too high but fine, it's worth the cost.
+P007,10007,2024-11-01,Electronics,Samsung Galaxy S22,1,799.99,799.99,North America,Debit Card,1,Man received a damaged product bro, sheesh i wan't a new and please replace this product as soon as possible!!!
+P008,10008,2024-11-01,Home Appliances,Keurig K-Elite Coffee Maker,1,129.99,129.99,Europe,PayPal,5,Five stars! The worst product, don't like the product sir/madam. Totally shit.
+P009,10009,2024-11-01,Clothing,Adidas Ultraboost,2,180.0,360.0,Asia,Credit Card,1,The quality is shocking. Avoid this product.
+P010,10010,2024-11-01,Books,To Kill a Mockingbird,5,12.99,64.95,North America,Credit Card,1,The item arrived damaged and unusable.
+P011,10011,2024-11-01,Beauty Products,Fenty Beauty Foundation,1,36.0,36.0,Europe,PayPal,1,The beauty product doesn't seem to work well after so many days of use.
+P012,10012,2024-11-01,Sports,Yoga Mat,3,29.99,89.97,Asia,Debit Card,5,Works perfectly and is incredibly well-made.
+P013,10013,2024-11-09,Electronics,Apple Watch Series 8,1,399.0,399.0,North America,Credit Card,4,Excellent quality and value. Highly recommend.
+P014,10014,2024-11-09,Home Appliances,Instant Pot Duo,1,89.99,89.99,Europe,Credit Card,1,Very disappointed with the quality. Broke almost immediately.
+P015,10015,2024-11-09,Clothing,Patagonia Better Sweater,1,139.0,139.0,Asia,PayPal,4,Top-notch quality and i love it. You won't be disappointed. Buy it guys 
+P016,10016,2024-11-09,Books,1984 by George Orwell,4,9.99,39.96,North America,Debit Card,4,The quality of the book is awesome! The pages smells so good, I recommend you guys for buying it.
+P017,10017,2024-11-09,Beauty Products,La Mer Moisturizing Cream,1,190.0,190.0,Europe,Credit Card,1,The Moisturizing doesn't work fine. Don't buy it i recommend other products.
+P018,10018,2024-11-09,Sports,Lululemon Align Leggings,2,98.0,196.0,Asia,PayPal,1,Fell apart after just one use. Absolute junk. Have been using this brand for years. this time it failed.
+P019,10019,2024-11-09,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,North America,Credit Card,1,The brand is good for some reason i don't like it.
+P020,10020,2024-11-09,Home Appliances,Roomba i7+ Robot Vacuum,1,799.99,799.99,Europe,Debit Card,4,I'm so happy with this. It's exactly what I wanted.
+P021,10021,2024-11-09,Clothing,Nike Dunk Low,3,110.0,330.0,Asia,Credit Card,2,The product is average. Met my basic needs.
+P022,10022,2024-11-09,Books,The Great Gatsby,5,10.0,50.0,North America,PayPal,1,A terrible experience. The product is not as described.
+P023,10023,2024-11-09,Beauty Products,Dior Addict Lip Glow,1,35.0,35.0,Europe,Credit Card,1,A terrible experience. The product is not as described.
+P024,10024,2024-11-09,Sports,Fitbit Charge 5,1,149.95,149.95,Asia,Debit Card,1,Very disappointed with the quality. Broke almost immediately.
+P025,10025,2024-11-09,Electronics,MacBook Air M2,1,1199.0,1199.0,North America,Credit Card,0,Does not work as advertised. Extremely frustrating.
+P026,10026,2024-11-09,Home Appliances,Air Fryer,2,89.95,179.9,Europe,PayPal,4,I'm so happy with this. It's exactly what I wanted.
+P027,10027,2024-11-09,Clothing,The North Face Jacket,1,250.0,250.0,Asia,Credit Card,1,I didn't like the quality and it was damaged. I had to return it.
+P028,10028,2024-11-09,Books,Sapiens: A Brief History of Humankind,3,22.0,66.0,North America,Debit Card,5,Brilliant! I would definitely recommend this to my friends and families.
+P029,10029,2024-11-09,Beauty Products,Supergoop! Unseen Sunscreen,2,34.0,68.0,Europe,Credit Card,2,Decent for the price, but could be better.
+P030,10030,2024-11-09,Sports,Peloton Bike,1,1445.0,1445.0,North America,PayPal,5,Love it! The design is great and it's very effective.
+P031,10031,2024-11-09,Electronics,GoPro HERO11 Black,1,499.99,499.99,Europe,Credit Card,4,Excellent quality and value. Highly recommend.
+P032,10032,2024-11-09,Home Appliances,Blender,3,45.5,136.5,Asia,Debit Card,0,Fell apart after just one use. Absolutely not worth of buying it. 
+P033,10033,2024-11-09,Clothing,Uniqlo Airism T-shirt,5,19.9,99.5,North America,Credit Card,5,Five stars! The best purchase I've made this year. Nope i was lying. I don't like the design of the T-shirt sirji.
+P034,10034,2024-11-09,Books,Atomic Habits,4,16.99,67.96,Europe,PayPal,1,The Atomic habit book is so good. The quality and other stuff didn't made me unhappy i would recommend this one.
+P035,10035,2024-11-09,Beauty Products,The Ordinary Niacinamide,3,6.5,19.5,Asia,Credit Card,1,Fell apart after just one use. Absolute junk.
+P036,10036,2024-11-09,Sports,Wilson Evolution Basketball,2,59.99,119.98,North America,Debit Card,5,Brilliant! I would definitely buy this again.
+P037,10037,2024-11-09,Electronics,Amazon Kindle Paperwhite,1,139.99,139.99,Europe,Credit Card,0,The item arrived damaged and unusable.
+P038,10038,2024-11-09,Home Appliances,Electric Kettle,2,25.0,50.0,Asia,PayPal,4,Absolutely fantastic! Exceeded all my expectations.
+P039,10039,2024-11-09,Clothing,Dr. Martens 1460 Boots,1,150.0,150.0,North America,Credit Card,4,A truly wonderful product. I'm very impressed.
+P040,10040,2024-11-09,Books,Where the Crawdads Sing,3,14.99,44.97,Europe,Debit Card,0,This product did not work at all. A complete waste of money.
+P041,10041,2024-11-11,Beauty Products,Glow Recipe Watermelon Glow,1,34.0,34.0,Asia,Credit Card,1,A terrible experience. The product is not as described.
+P042,10042,2024-11-11,Sports,Manduka PRO Yoga Mat,1,120.0,120.0,North America,PayPal,1,The quality is shocking. Avoid this product.
+P043,10043,2024-11-11,Electronics,iPad Pro,1,799.0,799.0,Europe,Credit Card,0,This product did not work at all. A complete waste of money.
+P044,10044,2024-11-11,Home Appliances,Toaster,4,30.0,120.0,Asia,Debit Card,1,A complete failure. I had to return it.
+P045,10045,2024-11-11,Clothing,H&M Hoodie,3,24.99,74.97,North America,Credit Card,5,A truly wonderful product. I'm very impressed.
+P046,10046,2024-11-11,Books,The Silent Patient,2,13.99,27.98,Europe,PayPal,4,Works perfectly and is incredibly well-made.
+P047,10047,2024-11-11,Beauty Products,Laneige Lip Sleeping Mask,2,22.0,44.0,Asia,Credit Card,1,Does not work as advertised. Extremely frustrating.
+P048,10048,2024-11-11,Sports,Gaiam Yoga Block,2,10.99,21.98,North America,Debit Card,1,The item arrived damaged and unusable.
+P049,10049,2024-11-11,Electronics,Bose SoundLink Revolve,1,199.0,199.0,Europe,Credit Card,5,Excellent quality and value. Highly recommend.
+P050,10050,2024-11-11,Home Appliances,Microwave Oven,1,99.99,99.99,Asia,PayPal,0,A complete failure. I had to return it.
+P051,10051,2024-11-11,Clothing,Zara Dress,1,79.9,79.9,North America,Credit Card,4,Excellent quality and value. Highly recommend.
+P228,10228,2024-11-13,Sports,The North Face Recon Backpack,1,99.0,99.0,North America,Debit Card,0,Very disappointed with the quality. Broke almost immediately.
+P229,10229,2024-11-13,Electronics,LG Ultrawide Monitor,1,349.99,349.99,Europe,Credit Card,4,I'm so happy with this. It's exactly what I wanted.
+P230,10230,2024-11-13,Home Appliances,Smart Garden,1,199.95,199.95,Asia,PayPal,0,The item arrived damaged and unusable.
+P231,10231,2024-11-13,Clothing,Nike Tech Fleece Joggers,2,110.0,220.0,North America,Credit Card,0,The item arrived damaged and unusable.
+P232,10232,2024-11-13,Books,Dune by Frank Herbert,2,9.99,19.98,North America,Credit Card,0,I would not recommend this. It's poorly made.
+P233,10233,2024-11-13,Beauty Products,Fresh Sugar Lip Treatment,1,24.0,24.0,Europe,PayPal,3,I have mixed feelings about this product.
+P234,10234,2024-11-13,Sports,Hydro Flask Standard Mouth Water Bottle,3,32.95,98.85,Asia,Credit Card,0,Fell apart after just one use. Absolute junk.
+P235,10235,2024-11-13,Electronics,Bose QuietComfort 35 II Wireless Headphones,1,299.0,299.0,North America,Credit Card,5,Five stars! The best purchase I've made this year.
+P236,10236,2024-11-13,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,1,159.99,159.99,Europe,PayPal,0,A terrible experience. The product is not as described.
+P237,10237,2024-11-13,Clothing,Nike Air Force 1 Sneakers,3,90.0,270.0,Asia,Debit Card,5,A truly wonderful product. I'm very impressed.
+P238,12345,2024-11-13,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,Europe,PayPal,5,Outstanding noise cancellation and battery life. Worth every penny!
+P239,12346,2024-11-13,Home Appliances,Instant Pot Duo Plus,2,99.99,199.98,North America,Credit Card,4,This has simplified my weeknight cooking so much. Very versatile.
+P240,12347,2024-11-13,Clothing,Patagonia Better Sweater Fleece,1,139.0,139.0,Asia,Debit Card,5,Incredibly warm and comfortable. The quality is exceptional as always.
+P241,12348,2024-11-13,Books,Project Hail Mary by Andy Weir,1,14.99,14.99,Europe,PayPal,5,Could not put this down! A fantastic and gripping story from start to finish.
+P242,12349,2024-11-13,Beauty Products,La Roche-Posay Effaclar Duo,1,24.99,24.99,North America,Debit Card,3,It's okay for occasional breakouts, but I didn't see a major improvement.
+P243,12350,2024-11-13,Sports,Yoga Mat Pro,1,45.5,45.5,Asia,Credit Card,2,The mat is too thin and slippery for my liking. Not recommended for hot yoga.
+P244,12351,2024-11-13,Electronics,Apple MacBook Air M3,1,1099.99,1099.99,North America,Credit Card,5,Blazing fast performance and the battery lasts all day. Perfect for work.
+P245,12352,2024-11-13,Home Appliances,KitchenAid Artisan Stand Mixer,1,429.99,429.99,Europe,PayPal,1,Arrived with a large scratch on the side. Very disappointed with the packaging.
+P246,12353,2024-11-13,Clothing,Lululemon Align Leggings,2,98.0,196.0,Asia,PayPal,4,These are so comfortable for yoga, but they do pill over time.
+P247,12354,2024-11-13,Books,The Midnight Library by Matt Haig,3,13.5,40.5,North America,Debit Card,4,A beautiful and thought-provoking concept. A very enjoyable read.
+P248,12355,2024-11-13,Beauty Products,Charlotte Tilbury Pillow Talk Lipstick,1,34.0,34.0,Europe,Credit Card,5,My new favorite shade! The formula is long-lasting and not drying.
+P249,12356,2024-11-13,Sports,Wilson Evolution Basketball,1,59.99,59.99,North America,Credit Card,5,The best indoor basketball I've ever used. Great grip and feel.
+P250,12357,2024-11-13,Electronics,Canon EOS R50 Camera,1,699.0,699.0,Asia,PayPal,3,Good beginner camera, but the kit lens is quite basic.
+P251,12358,2024-11-13,Home Appliances,Breville Barista Express,1,699.95,699.95,Europe,Debit Card,5,My home is now a cafe! The learning curve is steep but so worth it.
+P252,12359,2024-11-13,Clothing,Uniqlo Ultra Light Down Jacket,1,79.9,79.9,Asia,Credit Card,4,So packable and warm for its weight. Perfect for travel.
+P253,12360,2024-11-13,Books,Dune by Frank Herbert,2,12.99,25.98,North America,PayPal,5,A masterpiece of science fiction. The world-building is unparalleled.
+P254,12361,2024-11-13,Beauty Products,Olaplex No. 3 Hair Perfector,1,28.0,28.0,Europe,Debit Card,2,Did nothing for my damaged hair. A complete waste of money for me.
+P255,12362,2024-11-14,Sports,Garmin Forerunner 265,1,449.99,449.99,North America,Credit Card,5,Incredible running watch. The GPS is accurate and the data insights are superb.
+P256,12363,2024-11-14,Electronics,Amazon Echo Dot (5th Gen),3,49.99,149.97,Asia,PayPal,4,Surprisingly good sound for its size. Great for smart home control.
+P257,12364,2024-11-14,Home Appliances,iRobot Roomba j7+,1,599.99,599.99,Europe,Credit Card,1,It constantly gets stuck under my furniture. Not as smart as advertised.
+P258,12365,2024-11-14,Clothing,Everlane The Cashmere Crew,1,120.0,120.0,North America,Debit Card,0,This sweater started pilling horribly after the first wash. Poor quality.
+P259,12366,2024-11-14,Books,Atomic Habits by James Clear,1,11.99,11.99,Asia,Credit Card,5,Life-changing book. The strategies are practical and actually work.
+P260,12367,2024-11-14,Beauty Products,Supergoop! Unseen Sunscreen,1,34.0,34.0,North America,PayPal,5,This is my holy grail sunscreen. It feels like absolutely nothing on the skin.
+P261,12400,2024-11-14,Electronics,Google Pixel 8 Pro,1,899.00,899.00,North America,Credit Card,4,The camera system is phenomenal, especially in low light. Software is smooth.
+P262,12401,2024-11-14,Home Appliances,Shark Navigator Lift-Away Vacuum,1,229.99,229.99,Europe,PayPal,3,Powerful suction but a bit heavier than I expected. Gets the job done.
+P263,12402,2024-11-14,Clothing,The North Face Aconcagua Jacket,1,199.95,199.95,Asia,Debit Card,5,Incredibly warm and lightweight. Perfect for chilly autumn hikes.
+P264,12403,2024-11-14,Books,Klara and the Sun by Kazuo Ishiguro,2,13.99,27.98,North America,Credit Card,4,A poignant and beautifully written story from a unique perspective.
+P265,12404,2024-11-14,Beauty Products,Drunk Elephant Protini Polypeptide Cream,1,68.00,68.00,Europe,Debit Card,2,This broke me out terribly. Not suitable for my sensitive skin.
+P266,12405,2024-11-14,Sports,Spalding NBA Street Basketball,1,24.99,24.99,Asia,PayPal,4,Great grip and feel for outdoor courts. Holds up well on concrete.
+P267,12406,2024-11-14,Electronics,PlayStation 5 Console,1,499.99,499.99,North America,Credit Card,5,Finally got one! The graphics and load times are a game-changer.
+P268,12407,2024-11-14,Home Appliances,Cuisinart Air Fryer Toaster Oven,1,179.99,179.99,Europe,PayPal,1,Stopped working after two weeks. The door hinge also feels flimsy.
+P269,12408,2024-11-14,Clothing,L.L.Bean Wicked Good Slippers,2,59.95,119.90,Asia,Credit Card,5,Worth the hype! So cozy and warm. The sole is durable for quick trips outside.
+P270,12409,2024-11-14,Books,Pachinko by Min Jin Lee,1,12.50,12.50,North America,Debit Card,5,An epic, multi-generational saga. I was completely immersed in the characters' lives.
+P271,12410,2024-11-14,Beauty Products,Glow Recipe Watermelon Glow Niacinamide Dew Drops,1,34.00,34.00,Europe,Credit Card,3,Adds a nice glow but I didn't see much improvement in my skin texture.
+P272,12411,2024-11-14,Sports,Brooks Ghost 15 Running Shoes,1,139.95,139.95,Asia,PayPal,5,My go-to running shoe. Perfect balance of cushion and responsiveness.
+P273,12412,2024-11-14,Electronics,Anker 737 Power Bank,1,89.99,89.99,North America,Credit Card,4,Charges my laptop and phone multiple times. A lifesaver for travel.
+P274,12413,2024-11-14,Home Appliances,Honeywell QuietClean Air Purifier,1,189.49,189.49,Europe,Debit Card,4,Noticeably cleaner air and less dust. A bit noisy on the highest setting.
+P275,12414,2024-11-14,Clothing,Madewell High-Rise Skinny Jeans,1,89.50,89.50,Asia,Credit Card,2,The sizing is inconsistent. My usual size was way too tight.
+P276,12415,2024-11-24,Books,Where the Crawdads Sing by Delia Owens,1,10.99,10.99,North America,PayPal,0,The plot was predictable and the characters felt flat. Could not finish it.
+P277,12416,2024-11-24,Beauty Products,Summer Fridays Lip Butter Balm,1,24.00,24.00,Europe,Debit Card,5,So hydrating and not sticky at all. The vanilla scent is divine.
+P278,12417,2024-11-24,Sports,RumbleRoller Deep Tissue Massage Roller,1,39.99,39.99,Asia,Credit Card,3,It's very intense! Great for deep knots but can be painful to use.
+P279,12418,2024-11-24,Electronics,Logitech MX Master 3S Mouse,1,99.99,99.99,North America,Credit Card,5,The ergonomics are perfect for all-day work. The scrolling is magical.
+P280,12419,2024-11-24,Home Appliances,Ninja Foodi 8-in-1 Pressure Cooker,1,199.99,199.99,Europe,PayPal,4,This appliance does everything. It has saved me so much time in the kitchen.
+P281,12420,2024-11-24,Clothing,Vuori Performance Joggers,1,88.00,88.00,Asia,Debit Card,5,The most comfortable pants I own. Perfect for both lounging and working out.
+P282,12421,2024-11-24,Books,Sapiens by Yuval Noah Harari,1,16.99,16.99,North America,Credit Card,5,A mind-expanding book that completely changed my perspective on history.
+P283,12422,2024-11-24,Beauty Products,The Ordinary Niacinamide 10% + Zinc 1%,1,5.90,5.90,Europe,PayPal,4,Unbeatable for the price. Really helped control my oiliness.
+P284,12423,2024-11-24,Sports,Hydro Flask 32 oz Water Bottle,1,44.95,44.95,Asia,Credit Card,5,Keeps ice frozen for over 24 hours. The durability is impressive.
+P285,12424,2024-11-24,Electronics,Samsung 55" The Frame TV,1,1499.99,1499.99,North America,Debit Card,3,The art mode is stunning, but the smart TV interface is slow.
+P286,12425,2024-11-24,Home Appliances,OXO Brew Conical Burr Grinder,1,99.99,99.99,Europe,Credit Card,4,Consistent grind size and very low static. A great value for the price.
+P287,12426,2024-11-24,Clothing,Allbirds Tree Runners,1,95.00,95.00,Asia,PayPal,1,Not enough arch support for me. They also started to smell quickly.
+P288,12427,2024-11-26,Books,The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid,1,11.49,11.49,North America,Debit Card,5,Glamorous, gripping, and surprisingly emotional. I devoured this book.
+P289,12428,2024-11-26,Beauty Products,ILIA Super Serum Skin Tint,1,48.00,48.00,Europe,Credit Card,2,Oxidized on my skin and turned orange. The shade range is misleading.
+P290,12429,2024-11-26,Sports,TRX All-in-One Suspension Training Kit,1,149.95,149.95,Asia,PayPal,5,Incredibly versatile for a full-body workout at home or on the go.
+P291,12430,2024-11-26,Electronics,JBL Flip 6 Bluetooth Speaker,2,129.95,259.90,North America,Credit Card,4,Great sound for its size and fully waterproof. Perfect for the beach.
+P292,12431,2024-12-01,Home Appliances,Zojirushi Neuro Fuzzy Rice Cooker,1,249.99,249.99,Europe,Debit Card,5,Makes perfect rice every single time. The keep-warm function is fantastic.
+P293,12432,2024-12-01,Clothing,Carhartt WIP Chase Beanie,1,28.00,28.00,Asia,Credit Card,4,Warm and well-made. My go-to winter hat.
+P294,12433,2024-12-01,Books,Educated by Tara Westover,1,13.25,13.25,North America,PayPal,5,A powerful and unforgettable memoir about resilience and the pursuit of knowledge.
+P295,12434,2024-12-01,Beauty Products,Kosas Revealer Concealer,1,28.00,28.00,Europe,Debit Card,1,Cakey and settled into my fine lines almost immediately. Terrible.
+P296,12435,2024-12-01,Sports,On Cloudrunning Shoes,1,149.99,149.99,Asia,Credit Card,3,Unique and comfortable feel, but the durability is questionable for the price.
+P297,12436,2024-12-01,Electronics,Garmin inReach Mini 2,1,399.99,399.99,North America,PayPal,5,Essential peace of mind for any backcountry adventure. Reliable and compact.
+P298,12437,2024-12-01,Home Appliances,LG 4.5 Cu. Ft. Smart Front Load Washer,1,849.00,849.00,Europe,Debit Card,4,Cleans clothes thoroughly and is very energy efficient. The app is a bit clunky.
+P299,12438,2024-12-01,Clothing,Aritzia Super Puff Shorty,1,250.00,250.00,Asia,Credit Card,5,So lightweight yet incredibly warm. I've never owned a better winter coat.
+P300,12439,2024-12-01,Books,Circe by Madeline Miller,1,12.99,12.99,North America,PayPal,5,A breathtaking reimagining of Greek mythology. The prose is absolutely beautiful.
+P301,12440,2024-12-01,Beauty Products,Saie Glowy Super Skin Gel,1,32.00,32.00,Europe,Debit Card,4,Creates a beautiful, natural-looking glow without any glitter.
+P302,12441,2024-12-01,Sports,Gaiam Premium Yoga Mat,1,26.99,26.99,Asia,Credit Card,2,This mat is too thin and provides no joint support during floor poses.
+P303,12442,2024-12-01,Electronics,Kindle Paperwhite Signature Edition,1,189.99,189.99,North America,PayPal,5,The screen is crisp and easy on the eyes. The battery life is incredible.
+P304,12443,2024-12-01,Home Appliances,Vitamix 5200 Blender,1,449.95,449.95,Europe,Debit Card,5,A beast of a blender. It pulverizes everything into a perfectly smooth consistency.
+P305,12444,2024-12-01,Clothing,Reformation Odessa Dress,1,218.00,218.00,Asia,Credit Card,1,The fabric is beautiful but the fit is very strange and unflattering.
+P306,12445,2024-12-01,Books,The Vanishing Half by Brit Bennett,1,11.99,11.99,North America,PayPal,4,A compelling and thought-provoking story about identity and family.
+P307,12446,2024-12-01,Beauty Products,Paula's Choice 2% BHA Liquid Exfoliant,1,32.00,32.00,Europe,Debit Card,5,A holy-grail product that keeps my pores clear and skin smooth.
+P308,12447,2024-12-02,Sports,Yeti Rambler 20 oz Tumbler,1,34.99,34.99,Asia,Credit Card,5,Keeps my coffee hot for hours. The lid is completely leak-proof.
+P309,12448,2024-12-02,Electronics,Apple AirPods Pro (2nd Gen),1,249.00,249.00,North America,Credit Card,4,Transparency mode is incredible. Noise cancellation is top-notch.
+P310,12449,2024-12-02,Home Appliances,Ember Temperature Control Mug²,1,149.99,149.99,Europe,PayPal,2,A gimmicky product. The battery life is pathetic and it doesn't hold much coffee.
+P311,12450,2024-12-02,Clothing,Birkenstock Arizona Sandals,1,100.00,100.00,Asia,Debit Card,5,Took a while to break in, but now they are the most comfortable shoes I own.
+P312,12451,2024-12-02,Books,A Gentleman in Moscow by Amor Towles,1,10.49,10.49,North America,Credit Card,5,Charming, witty, and profoundly moving. A true masterpiece of storytelling.
+P313,12452,2024-12-02,Beauty Products,Rare Beauty Soft Pinch Liquid Blush,1,23.00,23.00,Europe,Credit Card,5,Extremely pigmented! A little dot goes a very long way. Beautiful finish.
+P314,12453,2024-12-02,Sports,Lululemon Energy Bra,1,58.00,58.00,Asia,PayPal,4,Great support for high-impact workouts. The fabric is soft and breathable.
+P315,12454,2024-12-02,Electronics,Dell XPS 13 Laptop,1,999.99,999.99,North America,Debit Card,3,Sleek design and great performance, but it tends to run hot under load.
+P316,12455,2024-12-02,Home Appliances,Philips Hue White & Color Ambiance Starter Kit,1,199.99,199.99,Europe,Credit Card,5,Completely transformed the ambiance of my home. So fun to control with my phone.
+P317,12456,2024-12-02,Clothing,Everlane The Uniform T-Shirt,3,18.00,54.00,Asia,PayPal,2,The fabric is thin and the neckline stretched out after one wash.
+P318,12457,2024-12-02,Books,The Invisible Life of Addie LaRue by V.E. Schwab,1,9.99,9.99,North America,Debit Card,4,A unique and captivating fantasy concept with beautiful prose.
+P319,12458,2024-12-02,Beauty Products,Tower 28 SOS Daily Rescue Facial Spray,1,20.00,20.00,Europe,Credit Card,4,This really helped calm my redness and irritated skin.
+P320,12459,2024-12-02,Sports,Hyperice Venom 2 Back Massager,1,199.00,199.00,Asia,PayPal,1,Overpriced and underwhelming. The heat function is weak and the vibrations are loud.
+P321,12500,2024-12-02,Electronics,Apple iPad Air,1,749.00,749.00,North America,Credit Card,5,Perfect for note-taking and media consumption. The screen is gorgeous.
+P322,12501,2024-12-02,Home Appliances,KitchenAid 5-Speed Blender,1,79.99,79.99,Europe,PayPal,3,It's a decent blender for smoothies, but struggles with frozen fruit sometimes.
+P323,12502,2024-12-02,Clothing,Champion Reverse Weave Hoodie,2,65.00,130.00,Asia,Debit Card,4,Classic, comfortable, and true to size. Has held up well in the wash.
+P324,12503,2024-12-02,Books,The Silent Patient by Alex Michaelides,1,9.99,9.99,North America,Debit Card,4,A real page-turner with a twist I genuinely didn't see coming.
+P325,12504,2024-12-02,Beauty Products,CeraVe Hydrating Facial Cleanser,1,14.99,14.99,Europe,Credit Card,5,A no-frills, effective cleanser that doesn't strip my skin. Holy grail.
+P326,12505,2024-12-02,Sports,Adidas Copa Sense Soccer Ball,1,55.00,55.00,Asia,PayPal,5,Excellent touch and feel. The quality is top-tier for training.
+P327,12506,2024-12-02,Electronics,Bose QuietComfort 45 Headphones,1,329.00,329.00,North America,Credit Card,4,Incredible noise cancellation for travel, but the case is a bit bulky.
+P328,12507,2024-12-03,Home Appliances,Black+Decker 20V Max Cordless Drill,1,69.99,69.99,Europe,Debit Card,4,More than powerful enough for all my basic home projects.
+P329,12508,2024-12-03,Clothing,Zara High-Waisted Trousers,1,45.99,45.99,Asia,Credit Card,2,The fabric is cheap and wrinkles the moment you put it on.
+P330,12509,2024-12-03,Books,Normal People by Sally Rooney,1,10.49,10.49,North America,PayPal,3,Well-written but the characters were frustrating. A bit overhyped for me.
+P331,12510,2024-12-03,Beauty Products,Fenty Beauty Pro Filt'r Soft Matte Foundation,1,36.00,36.00,Europe,Debit Card,5,Finally found a perfect shade match! The finish is beautiful and long-lasting.
+P332,12511,2024-12-03,Sports,Under Armour HOVR Sonic 5 Running Shoes,1,110.00,110.00,Asia,Credit Card,3,Good cushioning, but the fit is a bit narrow in the toe box.
+P333,12512,2024-12-03,Electronics,Apple iPad Air,1,749.00,749.00,Europe,PayPal,5,My second one for the family. Just as impressive as the first.
+P334,12513,2024-12-03,Home Appliances,T-fal Non-Stick Frying Pan,1,24.99,24.99,North America,Debit Card,1,The non-stick coating started peeling after a month. Unsafe and disappointing.
+P335,12514,2024-12-03,Clothing,H&M Linen Blend Shirt,1,29.99,29.99,Asia,PayPal,3,It's okay for the price, but it wrinkles very easily.
+P336,12515,2024-12-03,Books,The Guest List by Lucy Foley,1,8.99,8.99,Europe,Credit Card,4,A fun, atmospheric whodunit. Perfect for a weekend read.
+P337,12516,2024-12-03,Beauty Products,Heritage Store Rosewater Facial Spray,1,9.99,9.99,North America,Debit Card,4,So refreshing and smells lovely. A great pick-me-up throughout the day.
+P338,12517,2024-12-03,Sports,YETI Hopper M30 Soft Cooler,1,349.99,349.99,Asia,PayPal,5,Keeps ice for days. The magnetic closure is genius and leak-proof.
+P339,12518,2024-12-03,Electronics,GoPro HERO12 Black,1,399.99,399.99,Europe,Credit Card,5,Unbeatable for action footage. The hyper-smooth stabilization is incredible.
+P340,12519,2024-12-03,Home Appliances,Shark Robot Vacuum RV1001AE,1,299.99,299.99,North America,Debit Card,2,Constantly gets stuck on rug tassels. The mapping is not very smart.
+P341,12520,2024-12-03,Clothing,Levi's 501 Jeans,1,69.99,69.99,Asia,PayPal,1,Completely different quality from my last pair. Thin material and poor stitching.
+P342,12521,2024-12-03,Books,The Midnight Library by Matt Haig,1,13.50,13.50,Europe,Debit Card,5,A beautiful and thought-provoking concept. A very enjoyable read.
+P343,12522,2024-12-03,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,North America,Credit Card,4,Absolutely fantastic after one month of use! Didn't expect such good results on my skin.
+P344,12523,2024-12-03,Sports,Nike Air Max 270,1,150.00,150.00,Asia,PayPal,0,This shoes are awesome i had lot of comfort after using this, the cost was too high but fine, it's worth the cost.
+P345,12524,2024-12-04,Electronics,Samsung Galaxy S22,1,799.99,799.99,Europe,Debit Card,1,Man received a damaged product bro, sheesh i wan't a new and please replace this product as soon as possible!!!
+P346,12525,2024-12-04,Home Appliances,Keurig K-Elite Coffee Maker,1,129.99,129.99,North America,PayPal,5,Five stars! The worst product, don't like the product sir/madam. Totally shit.
+P347,12526,2024-12-04,Clothing,Adidas Ultraboost,2,180.00,360.00,Asia,Credit Card,1,The quality is shocking. Avoid this product......
+P348,12527,2024-12-04,Books,The Da Vinci Code,1,15.99,15.99,Europe,Debit Card,0,Well love the book, but the quality of the book is okay okay and fine.
+P349,12528,2024-12-04,Beauty Products,La Roche-Posay Anthelios Sunscreen,1,19.99,19.99,North America,Credit Card,5,The only sunscreen that doesn't break me out or feel greasy.
+P350,12529,2024-12-04,Sports,Theragun Prime Percussive Therapy Device,1,299.00,299.00,Asia,PayPal,4,A game-changer for muscle recovery. It's powerful but quite loud.
+P351,12530,2024-12-04,Electronics,Apple MacBook Air M3,1,1099.99,1099.99,Europe,Credit Card,5,Blazing fast performance and the battery lasts all day. Perfect for work.
+P352,12531,2024-12-04,Home Appliances,Shark Navigator Lift-Away Vacuum,1,229.99,229.99,North America,Debit Card,3,Powerful suction but a bit heavier than I expected. Gets the job done.
+P353,12532,2024-12-04,Clothing,Patagonia Better Sweater Fleece,1,139.00,139.00,Asia,Credit Card,5,Incredibly warm and comfortable. The quality is exceptional as always.
+P354,12533,2024-12-04,Books,Project Hail Mary by Andy Weir,1,14.99,14.99,Europe,PayPal,5,Could not put this down! A fantastic and gripping story from start to finish.
+P355,12534,2024-12-04,Beauty Products,Drunk Elephant Protini Polypeptide Cream,1,68.00,68.00,North America,Debit Card,2,This broke me out terribly. Not suitable for my sensitive skin.
+P356,12535,2024-12-04,Sports,Spalding NBA Street Basketball,1,24.99,24.99,Asia,Credit Card,4,Great grip and feel for outdoor courts. Holds up well on concrete.
+P357,12536,2024-12-04,Electronics,PlayStation 5 Console,1,499.99,499.99,Europe,PayPal,5,Finally got one! The graphics and load times are a game-changer.
+P358,12537,2024-12-04,Home Appliances,Cuisinart Air Fryer Toaster Oven,1,179.99,179.99,North America,Credit Card,1,Stopped working after two weeks. The door hinge also feels flimsy.
+P359,12538,2024-12-04,Clothing,Lululemon Align Leggings,2,98.00,196.00,Asia,Debit Card,4,These are so comfortable for yoga, but they do pill over time.
+P360,12539,2024-12-04,Books,The Midnight Library by Matt Haig,1,13.50,13.50,Europe,Credit Card,4,A beautiful and thought-provoking concept. A very enjoyable read.
+P361,12540,2024-12-04,Beauty Products,Charlotte Tilbury Pillow Talk Lipstick,1,34.00,34.00,North America,PayPal,5,My new favorite shade! The formula is long-lasting and not drying.
+P362,12541,2024-12-04,Sports,Wilson Evolution Basketball,1,59.99,59.99,Asia,Credit Card,5,The best indoor basketball I've ever used. Great grip and feel.
+P363,12542,2024-12-04,Electronics,Canon EOS R50 Camera,1,699.00,699.00,Europe,Debit Card,3,Good beginner camera, but the kit lens is quite basic.
+P364,12543,2024-12-04,Home Appliances,Breville Barista Express,1,699.95,699.95,North America,Credit Card,5,My home is now a cafe! The learning curve is steep but so worth it.
+P365,12544,2024-12-04,Clothing,Uniqlo Ultra Light Down Jacket,1,79.90,79.90,Asia,PayPal,4,So packable and warm for its weight. Perfect for travel.
+P366,12545,2024-12-04,Books,Dune by Frank Herbert,2,12.99,25.98,Europe,Debit Card,5,A masterpiece of science fiction. The world-building is unparalleled.
+P367,12546,2024-12-05,Beauty Products,Olaplex No. 3 Hair Perfector,1,28.00,28.00,North America,Credit Card,2,Did nothing for my damaged hair. A complete waste of money for me.
+P368,12547,2024-12-05,Sports,Garmin Forerunner 265,1,449.99,449.99,Asia,PayPal,5,Incredible running watch. The GPS is accurate and the data insights are superb.
+P369,12548,2024-12-05,Electronics,Amazon Echo Dot (5th Gen),3,49.99,149.97,Europe,Credit Card,4,Surprisingly good sound for its size. Great for smart home control.
+P370,12549,2024-12-05,Home Appliances,iRobot Roomba j7+,1,599.99,599.99,North America,Debit Card,1,It constantly gets stuck under my furniture. Not as smart as advertised.
+P371,12550,2024-12-05,Clothing,Everlane The Cashmere Crew,1,120.00,120.00,Asia,Credit Card,0,This sweater started pilling horribly after the first wash. Poor quality.
+P372,12551,2024-12-05,Books,Atomic Habits by James Clear,1,11.99,11.99,Europe,PayPal,5,Life-changing book. The strategies are practical and actually work.
+P373,12552,2024-12-05,Beauty Products,Supergoop! Unseen Sunscreen,1,34.00,34.00,North America,Debit Card,5,This is my holy grail sunscreen. It feels like absolutely nothing on the skin.
+P374,12553,2024-12-05,Sports,Hyperice Venom 2 Back Massager,1,199.00,199.00,Asia,Credit Card,1,Overpriced and underwhelming. The heat function is weak and the vibrations are loud.
+P375,12554,2024-12-05,Electronics,Google Pixel 8 Pro,1,899.00,899.00,Europe,PayPal,4,The camera system is phenomenal, especially in low light. Software is smooth.
+P376,12555,2024-12-05,Home Appliances,Instant Pot Duo Plus,2,99.99,199.98,North America,Credit Card,4,This has simplified my weeknight cooking so much. Very versatile.
+P377,12556,2024-12-05,Clothing,The North Face Aconcagua Jacket,1,199.95,199.95,Asia,Debit Card,5,Incredibly warm and lightweight. Perfect for chilly autumn hikes.
+P378,12557,2024-12-05,Books,Klara and the Sun by Kazuo Ishiguro,2,13.99,27.98,Europe,Credit Card,4,A poignant and beautifully written story from a unique perspective.
+P379,12558,2024-12-05,Beauty Products,Drunk Elephant Protini Polypeptide Cream,1,68.00,68.00,North America,PayPal,2,This broke me out terribly. Not suitable for my sensitive skin.
+P380,12559,2024-12-05,Sports,Spalding NBA Street Basketball,1,24.99,24.99,Asia,Credit Card,4,Great grip and feel for outdoor courts. Holds up well on concrete.
+P381,12560,2024-12-05,Electronics,PlayStation 5 Console,1,499.99,499.99,Europe,Debit Card,5,Finally got one! The graphics and load times are a game-changer.
+P382,12561,2024-12-05,Home Appliances,Cuisinart Air Fryer Toaster Oven,1,179.99,179.99,North America,Credit Card,1,Stopped working after two weeks. The door hinge also feels flimsy.
+P383,12562,2024-12-05,Clothing,Lululemon Align Leggings,2,98.00,196.00,Asia,PayPal,4,These are so comfortable for yoga, but they do pill over time.
+P384,12563,2024-12-05,Books,The Midnight Library by Matt Haig,1,13.50,13.50,Europe,Credit Card,4,A beautiful and thought-provoking concept. A very enjoyable read.
+P385,12564,2024-12-05,Beauty Products,Charlotte Tilbury Pillow Talk Lipstick,1,34.00,34.00,North America,Debit Card,5,My new favorite shade! The formula is long-lasting and not drying.
+P386,12565,2024-12-05,Sports,Wilson Evolution Basketball,1,59.99,59.99,Asia,Credit Card,5,The best indoor basketball I've ever used. Great grip and feel.
+P387,12566,2024-12-05,Electronics,Canon EOS R50 Camera,1,699.00,699.00,Europe,PayPal,3,Good beginner camera, but the kit lens is quite basic.
+P388,12567,2024-12-05,Home Appliances,Breville Barista Express,1,699.95,699.95,North America,Credit Card,5,My home is now a cafe! The learning curve is steep but so worth it.
+P389,12568,2024-12-05,Clothing,Uniqlo Ultra Light Down Jacket,1,79.90,79.90,Asia,Debit Card,4,So packable and warm for its weight. Perfect for travel.
+P390,12569,2024-12-05,Books,Dune by Frank Herbert,2,12.99,25.98,Europe,Credit Card,5,A masterpiece of science fiction. The world-building is unparalleled.
+P391,12570,2024-12-05,Beauty Products,Olaplex No. 3 Hair Perfector,1,28.00,28.00,North America,PayPal,2,Did nothing for my damaged hair. A complete waste of money for me.
+P392,12571,2024-12-05,Sports,Garmin Forerunner 265,1,449.99,449.99,Asia,Credit Card,5,Incredible running watch. The GPS is accurate and the data insights are superb.
+P393,12572,2024-12-05,Electronics,Amazon Echo Dot (5th Gen),3,49.99,149.97,Europe,Debit Card,4,Surprisingly good sound for its size. Great for smart home control.
+P394,12573,2024-12-05,Home Appliances,iRobot Roomba j7+,1,599.99,599.99,North America,Credit Card,1,It constantly gets stuck under my furniture. Not as smart as advertised.
+P395,12574,2024-12-05,Clothing,Everlane The Cashmere Crew,1,120.00,120.00,Asia,PayPal,0,This sweater started pilling horribly after the first wash. Poor quality.
+P396,12575,2024-12-05,Books,Atomic Habits by James Clear,1,11.99,11.99,Europe,Credit Card,5,Life-changing book. The strategies are practical and actually work.
+P397,12576,2024-12-05,Beauty Products,Supergoop! Unseen Sunscreen,1,34.00,34.00,North America,Debit Card,5,This is my holy grail sunscreen. It feels like absolutely nothing on the skin.
+P398,12577,2024-12-05,Sports,Hyperice Venom 2 Back Massager,1,199.00,199.00,Asia,Credit Card,1,Overpriced and underwhelming. The heat function is weak and the vibrations are loud.
+P399,12578,2024-12-05,Electronics,Google Pixel 8 Pro,1,899.00,899.00,Europe,PayPal,4,The camera system is phenomenal, especially in low light. Software is smooth.
+P400,12579,2024-12-05,Home Appliances,Instant Pot Duo Plus,2,99.99,199.98,North America,Credit Card,4,This has simplified my weeknight cooking so much. Very versatile.
+P401,12580,2024-12-05,Clothing,The North Face Aconcagua Jacket,1,199.95,199.95,Asia,Debit Card,5,Incredibly warm and lightweight. Perfect for chilly autumn hikes.
+P402,12581,2024-12-05,Books,Klara and the Sun by Kazuo Ishiguro,2,13.99,27.98,Europe,Credit Card,4,A poignant and beautifully written story from a unique perspective.
+P403,12582,2024-12-05,Beauty Products,Drunk Elephant Protini Polypeptide Cream,1,68.00,68.00,North America,PayPal,2,This broke me out terribly. Not suitable for my sensitive skin.
+P404,12583,2024-12-05,Sports,Spalding NBA Street Basketball,1,24.99,24.99,Asia,Credit Card,4,Great grip and feel for outdoor courts. Holds up well on concrete.
+P405,12584,2024-12-05,Electronics,PlayStation 5 Console,1,499.99,499.99,Europe,Debit Card,5,Finally got one! The graphics and load times are a game-changer.
+P406,12585,2024-12-05,Home Appliances,Cuisinart Air Fryer Toaster Oven,1,179.99,179.99,North America,Credit Card,1,Stopped working after two weeks. The door hinge also feels flimsy.
+P407,12586,2024-12-05,Clothing,Lululemon Align Leggings,2,98.00,196.00,Asia,PayPal,4,These are so comfortable for yoga, but they do pill over time.
+P408,12587,2024-12-05,Books,The Midnight Library by Matt Haig,1,13.50,13.50,Europe,Credit Card,4,A beautiful and thought-provoking concept. A very enjoyable read.
+P409,12588,2024-12-05,Beauty Products,Charlotte Tilbury Pillow Talk Lipstick,1,34.00,34.00,North America,Debit Card,5,My new favorite shade! The formula is long-lasting and not drying.
+P410,12589,2024-12-05,Sports,Wilson Evolution Basketball,1,59.99,59.99,Asia,Credit Card,5,The best indoor basketball I've ever used. Great grip and feel.
+P411,12590,2024-12-05,Electronics,Canon EOS R50 Camera,1,699.00,699.00,Europe,PayPal,3,Good beginner camera, but the kit lens is quite basic.
+P412,12591,2024-12-05,Home Appliances,Breville Barista Express,1,699.95,699.95,North America,Credit Card,5,My home is now a cafe! The learning curve is steep but so worth it.
+P413,12592,2024-12-05,Clothing,Uniqlo Ultra Light Down Jacket,1,79.90,79.90,Asia,Debit Card,4,So packable and warm for its weight. Perfect for travel.
+P414,12593,2024-12-05,Books,Dune by Frank Herbert,2,12.99,25.98,Europe,Credit Card,5,A masterpiece of science fiction. The world-building is unparalleled.
+P415,12594,2024-12-05,Beauty Products,Olaplex No. 3 Hair Perfector,1,28.00,28.00,North America,PayPal,2,Did nothing for my damaged hair. A complete waste of money for me.
+P416,12595,2024-12-05,Sports,Garmin Forerunner 265,1,449.99,449.99,Asia,Credit Card,5,Incredible running watch. The GPS is accurate and the data insights are superb.
+P417,12596,2024-12-05,Electronics,Amazon Echo Dot (5th Gen),3,49.99,149.97,Europe,Debit Card,4,Surprisingly good sound for its size. Great for smart home control.
+P418,12597,2024-12-05,Home Appliances,iRobot Roomba j7+,1,599.99,599.99,North America,Credit Card,1,It constantly gets stuck under my furniture. Not as smart as advertised.
+P419,12598,2024-12-05,Clothing,Everlane The Cashmere Crew,1,120.00,120.00,Asia,PayPal,0,This sweater started pilling horribly after the first wash. Poor quality.
+P420,12599,2024-12-05,Books,Atomic Habits by James Clear,1,11.99,11.99,Europe,Credit Card,5,Life-changing book. The strategies are practical and actually work.
+P421,12600,2024-12-05,Beauty Products,Supergoop! Unseen Sunscreen,1,34.00,34.00,North America,Debit Card,5,This is my holy grail sunscreen. It feels like absolutely nothing on the skin.
+P422,12601,2024-12-05,Sports,Hyperice Venom 2 Back Massager,1,199.00,199.00,Asia,Credit Card,1,Overpriced and underwhelming. The heat function is weak and the vibrations are loud.
+P423,12602,2024-12-05,Electronics,Google Pixel 8 Pro,1,899.00,899.00,Europe,PayPal,4,The camera system is phenomenal, especially in low light. Software is smooth.
+P424,12603,2024-12-05,Home Appliances,Instant Pot Duo Plus,2,99.99,199.98,North America,Credit Card,4,This has simplified my weeknight cooking so much. Very versatile.
+P425,12604,2024-12-05,Clothing,The North Face Aconcagua Jacket,1,199.95,199.95,Asia,Debit Card,5,Incredibly warm and lightweight. Perfect for chilly autumn hikes.
+P426,12605,2024-12-05,Books,Klara and the Sun by Kazuo Ishiguro,2,13.99,27.98,Europe,Credit Card,4,A poignant and beautifully written story from a unique perspective.
+P427,12606,2024-12-05,Beauty Products,Drunk Elephant Protini Polypeptide Cream,1,68.00,68.00,North America,PayPal,2,This broke me out terribly. Not suitable for my sensitive skin.
+P428,12607,2024-12-05,Sports,Spalding NBA Street Basketball,1,24.99,24.99,Asia,Credit Card,4,Great grip and feel for outdoor courts. Holds up well on concrete.
+P429,12608,2024-12-05,Electronics,PlayStation 5 Console,1,499.99,499.99,Europe,Debit Card,5,Finally got one! The graphics and load times are a game-changer.
+P430,12609,2024-12-05,Home Appliances,Cuisinart Air Fryer Toaster Oven,1,179.99,179.99,North America,Credit Card,1,Stopped working after two weeks. The door hinge also feels flimsy.
+P431,12610,2024-12-05,Clothing,Lululemon Align Leggings,2,98.00,196.00,Asia,PayPal,4,These are so comfortable for yoga, but they do pill over time.
+P432,12611,2024-12-05,Books,The Midnight Library by Matt Haig,1,13.50,13.50,Europe,Credit Card,4,A beautiful and thought-provoking concept. A very enjoyable read.
+P433,12612,2024-12-05,Beauty Products,Charlotte Tilbury Pillow Talk Lipstick,1,34.00,34.00,North America,Debit Card,5,My new favorite shade! The formula is long-lasting and not drying.
+P434,12613,2024-12-05,Sports,Wilson Evolution Basketball,1,59.99,59.99,Asia,Credit Card,5,The best indoor basketball I've ever used. Great grip and feel.
+P436,13000,2024-12-05,Electronics,Microsoft Surface Laptop 5,1,1299.99,1299.99,North America,Credit Card,4,Sleek design and excellent performance, but the port selection is limited.
+P437,13001,2024-12-05,Home Appliances,GE Profile Opal 2.0 Nugget Ice Maker,1,579.99,579.99,Europe,PayPal,5,Best purchase ever! The ice is just like from a sonic.
+P438,13002,2024-12-05,Clothing,Columbia Newton Ridge Plus Hiking Boots,1,89.99,89.99,Asia,Debit Card,5,Extremely comfortable and waterproof. Great for tough trails.
+P439,13003,2024-12-05,Books,The Hobbit by J.R.R. Tolkien,1,10.99,10.99,North America,Debit Card,5,A timeless classic. The adventure is as wonderful as ever.
+P440,13004,2024-12-05,Beauty Products,Glossier Boy Brow,1,18.00,18.00,Europe,Credit Card,4,Perfect for a natural, feathered look. Easy to use.
+P441,13005,2024-12-05,Sports,REI Co-op Trailbreak 30 Backpack,1,79.95,79.95,Asia,PayPal,3,Good for the price, but the hip belt is not very supportive.
+P442,13006,2024-12-05,Electronics,Apple iPad Air,1,749.00,749.00,North America,Credit Card,5,Perfect for note-taking and media consumption. The screen is gorgeous.
+P443,13007,2024-12-05,Home Appliances,Shark Navigator Lift-Away Vacuum,1,229.99,229.99,Europe,Debit Card,3,Powerful suction but a bit heavier than I expected. Gets the job done.
+P444,13008,2024-12-05,Clothing,Patagonia Better Sweater Fleece,1,139.00,139.00,Asia,Credit Card,5,Incredibly warm and comfortable. The quality is exceptional as always.
+P445,13009,2024-12-05,Books,Project Hail Mary by Andy Weir,1,14.99,14.99,North America,PayPal,5,Could not put this down! A fantastic and gripping story from start to finish.
+P446,13010,2024-12-05,Beauty Products,Drunk Elephant Protini Polypeptide Cream,1,68.00,68.00,Europe,Debit Card,2,This broke me out terribly. Not suitable for my sensitive skin.
+P447,13011,2024-12-05,Sports,Spalding NBA Street Basketball,1,24.99,24.99,Asia,Credit Card,4,Great grip and feel for outdoor courts. Holds up well on concrete.
+P448,13012,2024-12-05,Electronics,PlayStation 5 Console,1,499.99,499.99,North America,Credit Card,5,Finally got one! The graphics and load times are a game-changer.
+P449,13013,2024-12-05,Home Appliances,Cuisinart Air Fryer Toaster Oven,1,179.99,179.99,Europe,PayPal,1,Stopped working after two weeks. The door hinge also feels flimsy.
+P450,13014,2024-12-05,Clothing,Lululemon Align Leggings,2,98.00,196.00,Asia,Debit Card,4,These are so comfortable for yoga, but they do pill over time.
+P451,13015,2024-12-05,Books,The Midnight Library by Matt Haig,1,13.50,13.50,North America,Credit Card,4,A beautiful and thought-provoking concept. A very enjoyable read.
+P452,13016,2024-12-05,Beauty Products,Charlotte Tilbury Pillow Talk Lipstick,1,34.00,34.00,Europe,Debit Card,5,My new favorite shade! The formula is long-lasting and not drying.
+P453,13017,2024-12-05,Sports,Wilson Evolution Basketball,1,59.99,59.99,Asia,Credit Card,5,The best indoor basketball I've ever used. Great grip and feel.
+P454,13018,2024-12-05,Electronics,Canon EOS R50 Camera,1,699.00,699.00,North America,PayPal,3,Good beginner camera, but the kit lens is quite basic.
+P455,13019,2024-12-05,Home Appliances,Breville Barista Express,1,699.95,699.95,Europe,Credit Card,5,My home is now a cafe! The learning curve is steep but so worth it.
+P456,13020,2024-12-05,Clothing,Uniqlo Ultra Light Down Jacket,1,79.90,79.90,Asia,Debit Card,4,So packable and warm for its weight. Perfect for travel.
+P457,13021,2024-12-05,Books,Dune by Frank Herbert,2,12.99,25.98,North America,Credit Card,5,A masterpiece of science fiction. The world-building is unparalleled.
+P458,13022,2024-12-05,Beauty Products,Olaplex No. 3 Hair Perfector,1,28.00,28.00,Europe,PayPal,2,Did nothing for my damaged hair. A complete waste of money for me.
+P459,13023,2024-12-05,Sports,Garmin Forerunner 265,1,449.99,449.99,Asia,Credit Card,5,Incredible running watch. The GPS is accurate and the data insights are superb.
+P460,13024,2024-12-05,Electronics,Amazon Echo Dot (5th Gen),3,49.99,149.97,North America,Debit Card,4,Surprisingly good sound for its size. Great for smart home control.
+P461,13025,2024-12-05,Home Appliances,iRobot Roomba j7+,1,599.99,599.99,Europe,Credit Card,1,It constantly gets stuck under my furniture. Not as smart as advertised.
+P462,13026,2024-12-05,Clothing,Everlane The Cashmere Crew,1,120.00,120.00,Asia,PayPal,0,This sweater started pilling horribly after the first wash. Poor quality.
+P463,13027,2024-12-05,Books,Atomic Habits by James Clear,1,11.99,11.99,North America,Credit Card,5,Life-changing book. The strategies are practical and actually work.
+P464,13028,2024-12-05,Beauty Products,Supergoop! Unseen Sunscreen,1,34.00,34.00,Europe,Debit Card,5,This is my holy grail sunscreen. It feels like absolutely nothing on the skin.
+P465,13029,2024-12-05,Sports,Hyperice Venom 2 Back Massager,1,199.00,199.00,Asia,Credit Card,1,Overpriced and underwhelming. The heat function is weak and the vibrations are loud.
+P466,13030,2024-12-05,Electronics,Google Pixel 8 Pro,1,899.00,899.00,North America,PayPal,4,The camera system is phenomenal, especially in low light. Software is smooth.
+P467,13031,2024-12-05,Home Appliances,Instant Pot Duo Plus,2,99.99,199.98,Europe,Credit Card,4,This has simplified my weeknight cooking so much. Very versatile.
+P468,13032,2024-12-06,Clothing,The North Face Aconcagua Jacket,1,199.95,199.95,Asia,Debit Card,5,Incredibly warm and lightweight. Perfect for chilly autumn hikes.
+P469,13033,2024-12-06,Books,Klara and the Sun by Kazuo Ishiguro,2,13.99,27.98,North America,Credit Card,4,A poignant and beautifully written story from a unique perspective.
+P470,13034,2024-12-06,Beauty Products,La Mer Crème de la Mer,1,185.00,185.00,Europe,PayPal,2,For this price, I expected a miracle. It's just a nice moisturizer.
+P471,13035,2024-12-06,Sports,Peloton Bike+,1,2495.00,2495.00,Asia,Credit Card,5,An incredible investment in my fitness. The classes are motivating and fun.
+P472,13036,2024-12-06,Electronics,Sony Bravia XR A80L 55" TV,1,1599.99,1599.99,North America,Debit Card,5,The picture quality is stunningly realistic. Sony's processing is the best.
+P473,13037,2024-12-06,Home Appliances,Samsung Bespoke Refrigerator,1,2899.99,2899.99,Europe,Credit Card,3,Looks beautiful in the kitchen, but the ice maker is already making a weird noise.
+P474,13038,2024-12-06,Clothing,Arc'teryx Beta AR Jacket,1,599.99,599.99,Asia,PayPal,5,The ultimate storm shell. Completely waterproof, breathable, and bombproof.
+P475,13039,2024-12-06,Books,Thinking, Fast and Slow by Daniel Kahneman,1,9.99,9.99,North America,Debit Card,4,A challenging but fascinating read that explains how our minds work.
+P476,13040,2024-12-06,Beauty Products,SK-II Facial Treatment Essence,1,119.00,119.00,Europe,Credit Card,5,My skin has never been so clear and glowing. Worth the splurge.
+P477,13041,2024-12-06,Sports,Bowflex SelectTech 552 Dumbbells,1,429.99,429.99,Asia,PayPal,4,Saves so much space. The dial system is easy to use, but they are a bit bulky.
+P478,13042,2024-12-06,Electronics,Fujifilm Instax Mini 12,1,69.99,69.99,North America,Credit Card,5,So much fun at parties! The auto-exposure makes it foolproof.
+P479,13043,2024-12-06,Home Appliances, Weber Spirit II E-310 Gas Grill,1,549.99,549.99,Europe,Debit Card,5,Even heating and built like a tank. Grills everything perfectly.
+P480,13044,2024-12-06,Clothing,Stuart Weitzman Lowland Boots,1,798.00,798.00,Asia,Credit Card,4,Incredibly chic and flattering. The over-the-knee style is timeless.
+P481,13045,2024-12-06,Books,The Alchemist by Paulo Coelho,1,8.99,8.99,North America,PayPal,2,An overly simplistic fable. I don't understand the hype.
+P482,13046,2024-12-06,Beauty Products,Augustinus Bader The Rich Cream,1,285.00,285.00,Europe,Debit Card,1,This gave me a horrible rash. A very expensive mistake.
+P483,13047,2024-12-06,Sports,Coleman Sundome 4-Person Tent,1,89.99,89.99,Asia,Credit Card,3,A great starter tent, but not the best in heavy rain.
+P484,13048,2024-12-06,Electronics,HP OfficeJet Pro 8025e,1,149.99,149.99,North America,Credit Card,2,The ink cartridges are ridiculously expensive and run out too fast.
+P485,13049,2024-12-06,Home Appliances,Lodge Cast Iron Skillet,1,24.99,24.99,Europe,PayPal,5,A kitchen essential. It will last a lifetime if you care for it.
+P486,13050,2024-12-06,Clothing,Spanx Perfect Black Pant,1,98.00,98.00,Asia,Debit Card,5,The most comfortable and flattering dress pants I own. Worth every penny.
+P487,13051,2024-12-06,Books,Britt-Marie Was Here by Fredrik Backman,1,10.49,10.49,North America,Credit Card,4,Quirky, heartwarming, and beautifully character-driven.
+P488,13052,2024-12-06,Beauty Products,NARS Radiant Creamy Concealer,1,32.00,32.00,Europe,Credit Card,5,Full coverage without looking cakey. My holy grail concealer.
+P489,13053,2024-12-06,Sports,Yeti Tundra 45 Cooler,1,374.99,374.99,Asia,PayPal,5,This cooler is indestructible. Ice lasts for 5+ days easily.
+P490,13054,2024-12-06,Electronics,Nintendo Switch OLED Model,1,349.99,349.99,North America,Debit Card,5,The perfect console for gaming at home or on the go. The screen is vibrant.
+P491,13055,2024-12-06,Home Appliances,KitchenAid Artisan Stand Mixer,1,429.99,429.99,Europe,Credit Card,5,A classic for a reason. Powerful, durable, and beautiful.
+P492,13056,2024-12-06,Clothing,Ray-Ban Aviator Classic Sunglasses,1,153.00,153.00,Asia,Credit Card,4,Timeless style and great lens quality. A bit pricey but they last.
+P493,13057,2024-12-06,Books,The Power of Now by Eckhart Tolle,1,9.49,9.49,North America,PayPal,3,Some good ideas, but it becomes very repetitive.
+P494,13058,2024-12-06,Beauty Products,Morphe 35O Nature Glow Eyeshadow Palette,1,25.99,25.99,Europe,Debit Card,2,The shadows are chalky and have a lot of fallout. Poor pigmentation.
+P495,13059,2024-12-06,Sports,Apple Watch Series 9,1,399.00,399.00,Asia,PayPal,4,Seamless integration with my iPhone. The fitness tracking is excellent.
+P496,13060,2024-12-06,Electronics,Dyson Airwrap Multi-Styler,1,599.99,599.99,North America,Credit Card,3,There's a steep learning curve, and it doesn't work well on my thick hair.
+P497,13061,2024-12-06,Home Appliances,Simplehuman Sensor Mirror Pro,1,250.00,250.00,Europe,Credit Card,5,The different lighting settings are a game-changer for applying makeup.
+P498,13062,2024-12-06,Clothing,Canada Goose Expedition Parka,1,1495.00,1495.00,Asia,Debit Card,5,You do not feel the cold in this coat. It is worth it for brutal winters.
+P499,13063,2024-12-06,Books,The Song of Achilles by Madeline Miller,1,11.99,11.99,North America,Credit Card,5,Achilles and Patroclus's story is told with such beauty and tragedy. I sobbed.
+P500,13064,2024-12-06,Beauty Products,Anastasia Beverly Hills Brow Wiz,1,23.00,23.00,Europe,PayPal,5,The fine tip is perfect for creating hair-like strokes. My go-to brow pencil.
+P501,13065,2024-12-06,Sports,Casio G-Shock DW-6900,1,91.00,91.00,Asia,Credit Card,5,This watch can survive anything. A true classic for durability.
+P502,13066,2024-12-06,Electronics,Apple MacBook Air M3,1,1099.99,1099.99,North America,Debit Card,5,Blazing fast performance and the battery lasts all day. Perfect for work.
+P503,13067,2024-12-06,Home Appliances,Shark Navigator Lift-Away Vacuum,1,229.99,229.99,Europe,Credit Card,3,Powerful suction but a bit heavier than I expected. Gets the job done.
+P504,13068,2024-12-06,Clothing,Patagonia Better Sweater Fleece,1,139.00,139.00,Asia,PayPal,5,Incredibly warm and comfortable. The quality is exceptional as always.
+P505,13069,2024-12-06,Books,Project Hail Mary by Andy Weir,1,14.99,14.99,North America,Credit Card,5,Could not put this down! A fantastic and gripping story from start to finish.
+P506,13070,2024-12-06,Beauty Products,Drunk Elephant Protini Polypeptide Cream,1,68.00,68.00,Europe,Debit Card,2,This broke me out terribly. Not suitable for my sensitive skin.
+P507,13071,2024-12-06,Sports,Spalding NBA Street Basketball,1,24.99,24.99,Asia,Credit Card,4,Great grip and feel for outdoor courts. Holds up well on concrete.
+P508,13072,2024-12-06,Electronics,PlayStation 5 Console,1,499.99,499.99,North America,PayPal,5,Finally got one! The graphics and load times are a game-changer.
+P509,13073,2024-12-06,Home Appliances,Cuisinart Air Fryer Toaster Oven,1,179.99,179.99,Europe,Credit Card,1,Stopped working after two weeks. The door hinge also feels flimsy.
+P510,13074,2024-12-06,Clothing,Lululemon Align Leggings,2,98.00,196.00,Asia,Debit Card,4,These are so comfortable for yoga, but they do pill over time.
+P511,13075,2024-12-06,Books,The Midnight Library by Matt Haig,1,13.50,13.50,North America,Credit Card,4,A beautiful and thought-provoking concept. A very enjoyable read.
+P512,13076,2024-12-06,Beauty Products,Charlotte Tilbury Pillow Talk Lipstick,1,34.00,34.00,Europe,PayPal,5,My new favorite shade! The formula is long-lasting and not drying.
+P513,13077,2024-12-06,Sports,Wilson Evolution Basketball,1,59.99,59.99,Asia,Credit Card,5,The best indoor basketball I've ever used. Great grip and feel.
+P514,13078,2024-12-06,Electronics,Canon EOS R50 Camera,1,699.00,699.00,North America,Debit Card,3,Good beginner camera, but the kit lens is quite basic.
+P515,13079,2024-12-06,Home Appliances,Breville Barista Express,1,699.95,699.95,Europe,Credit Card,5,My home is now a cafe! The learning curve is steep but so worth it.
+P516,13080,2024-12-06,Clothing,Uniqlo Ultra Light Down Jacket,1,79.90,79.90,Asia,PayPal,4,So packable and warm for its weight. Perfect for travel.
+P517,13081,2024-12-06,Books,Dune by Frank Herbert,2,12.99,25.98,North America,Credit Card,5,A masterpiece of science fiction. The world-building is unparalleled.
+P518,13082,2024-12-06,Beauty Products,Olaplex No. 3 Hair Perfector,1,28.00,28.00,Europe,Debit Card,2,Did nothing for my damaged hair. A complete waste of money for me.
+P519,13083,2024-12-06,Sports,Garmin Forerunner 265,1,449.99,449.99,Asia,Credit Card,5,Incredible running watch. The GPS is accurate and the data insights are superb.
+P520,13084,2024-12-06,Electronics,Amazon Echo Dot (5th Gen),3,49.99,149.97,North America,Credit Card,4,Surprisingly good sound for its size. Great for smart home control.
+P521,13085,2024-12-06,Home Appliances,iRobot Roomba j7+,1,599.99,599.99,Europe,PayPal,1,It constantly gets stuck under my furniture. Not as smart as advertised.
+P522,13086,2024-12-06,Clothing,Everlane The Cashmere Crew,1,120.00,120.00,Asia,Debit Card,0,This sweater started pilling horribly after the first wash. Poor quality.
+P523,13087,2024-12-06,Books,Atomic Habits by James Clear,1,11.99,11.99,North America,Credit Card,5,Life-changing book. The strategies are practical and actually work.
+P524,13088,2024-12-06,Beauty Products,Supergoop! Unseen Sunscreen,1,34.00,34.00,Europe,Credit Card,5,This is my holy grail sunscreen. It feels like absolutely nothing on the skin.
+P525,13089,2024-12-06,Sports,Hyperice Venom 2 Back Massager,1,199.00,199.00,Asia,PayPal,1,Overpriced and underwhelming. The heat function is weak and the vibrations are loud.
+P526,13090,2024-12-06,Electronics,Google Pixel 8 Pro,1,899.00,899.00,North America,Debit Card,4,The camera system is phenomenal, especially in low light. Software is smooth.
+P527,13091,2024-12-06,Home Appliances,Instant Pot Duo Plus,2,99.99,199.98,Europe,Credit Card,4,This has simplified my weeknight cooking so much. Very versatile.
+P528,13092,2024-12-06,Clothing,The North Face Aconcagua Jacket,1,199.95,199.95,Asia,Credit Card,5,Incredibly warm and lightweight. Perfect for chilly autumn hikes.
+P529,13093,2024-12-06,Books,Klara and the Sun by Kazuo Ishiguro,2,13.99,27.98,North America,PayPal,4,A poignant and beautifully written story from a unique perspective.
+P530,13094,2024-12-07,Beauty Products,Tatcha The Water Cream,1,68.00,68.00,Europe,Debit Card,5,Lightweight, hydrating, and perfect for my combination skin. Love it.
+P531,13095,2024-12-07,Sports,Patagonia Black Hole Duffel 40L,1,139.00,139.00,Asia,Credit Card,5,This bag is a tank. I've checked it on flights and it still looks new.
+P532,13096,2024-12-07,Electronics,Samsung Galaxy Z Flip5,1,999.99,999.99,North America,PayPal,3,A fun and compact phone, but the battery life is disappointing.
+P533,13097,2024-12-07,Home Appliances,LEVOIT Core 300 Air Purifier,1,99.99,99.99,Europe,Debit Card,4,Quiet and effective. I notice less dust in my apartment.
+P534,13098,2024-12-07,Clothing,Steve Madden Troopa Boots,1,89.99,89.99,Asia,Credit Card,2,Uncomfortable to walk in for more than an hour. The leather is stiff.
+P535,13099,2024-12-07,Books,The Four Agreements by Don Miguel Ruiz,1,7.99,7.99,North America,Credit Card,5,A simple but powerful code for personal freedom.
+P536,13100,2024-12-07,Beauty Products,IT Cosmetics CC+ Cream,1,44.00,44.00,Europe,PayPal,4,Great coverage and SPF. Can look a bit heavy if you apply too much.
+P537,13101,2024-12-07,Sports,Stance NBA Socks,3,16.00,48.00,Asia,Debit Card,5,The most comfortable basketball socks. Great cushioning and they stay up.
+P538,13102,2024-12-07,Electronics,Beats Studio Pro,1,349.99,349.99,North America,Credit Card,3,Sound quality is good, but they are not very comfortable for long periods.
+P539,13103,2024-12-07,Home Appliances,Oster Blender | Brushed Nickel,1,49.99,49.99,Europe,Credit Card,1,Broke while trying to crush ice for the first time. Junk.
+P540,13104,2024-12-07,Clothing,Madewell The Transport Tote,1,168.00,168.00,Asia,PayPal,4,Beautiful leather that's breaking in nicely. A bit heavy when empty.
+P541,13105,2024-12-07,Books,Maybe You Should Talk to Someone by Lori Gottlieb,1,12.49,12.49,North America,Debit Card,5,Funny, insightful, and deeply human. A fantastic read.
+P542,13106,2024-12-07,Beauty Products,First Aid Beauty KP Bump Eraser Body Scrub,1,28.00,28.00,Europe,Credit Card,4,Really works on strawberry legs! The texture is gritty but effective.
+P543,13107,2024-12-07,Sports,JBL Endurance RUN Sports Earphones,1,29.95,29.95,Asia,PayPal,2,They fall out constantly during my runs. Not secure at all.
+P544,13108,2024-12-07,Electronics,Apple AirTag 4 Pack,1,99.00,99.00,North America,Credit Card,5,Peace of mind for my keys, wallet, and backpack. Works flawlessly.
+P545,13109,2024-12-07,Home Appliances,Hamilton Beach 2-Slice Toaster,1,29.99,29.99,Europe,Debit Card,3,It toasts bread. Nothing special, but it gets the job done.
+P546,13110,2024-12-07,Clothing,Levi's 501 Jeans,1,69.99,69.99,Asia,Credit Card,1,Completely different quality from my last pair. Thin material and poor stitching.
+P547,13111,2024-12-07,Books,The Da Vinci Code,1,15.99,15.99,North America,PayPal,0,Well love the book, but the quality of the book is okay okay and fine.
+P548,13112,2024-12-07,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,Credit Card,4,Absolutely fantastic after one month of use! Didn't expect such good results on my skin.
+P549,13113,2024-12-07,Sports,Nike Air Max 270,1,150.00,150.00,Asia,Debit Card,0,This shoes are awesome i had lot of comfort after using this, the cost was too high but fine, it's worth the cost.
+P550,13114,2024-12-07,Electronics,Samsung Galaxy S22,1,799.99,799.99,North America,Credit Card,1,Man received a damaged product bro, sheesh i wan't a new and please replace this product as soon as possible!!!
+P551,13115,2024-12-07,Home Appliances,Keurig K-Elite Coffee Maker,1,129.99,129.99,Europe,PayPal,5,Five stars! The worst product, don't like the product sir/madam. Totally shit.
+P552,13116,2024-12-07,Clothing,Adidas Ultraboost,2,180.00,360.00,Asia,Credit Card,1,The quality is shocking. Avoid this product......
+P553,13117,2024-12-07,Books,The Hobbit by J.R.R. Tolkien,1,10.99,10.99,North America,Debit Card,5,A timeless classic. The adventure is as wonderful as ever.
+P554,13118,2024-12-07,Beauty Products,Glossier Boy Brow,1,18.00,18.00,Europe,Credit Card,4,Perfect for a natural, feathered look. Easy to use.
+P555,13119,2024-12-07,Sports,REI Co-op Trailbreak 30 Backpack,1,79.95,79.95,Asia,PayPal,3,Good for the price, but the hip belt is not very supportive.
+P556,13120,2024-12-07,Electronics,Apple iPad Air,1,749.00,749.00,North America,Credit Card,5,Perfect for note-taking and media consumption. The screen is gorgeous.
+P557,13121,2024-12-07,Home Appliances,Shark Navigator Lift-Away Vacuum,1,229.99,229.99,Europe,Debit Card,3,Powerful suction but a bit heavier than I expected. Gets the job done.
+P558,13122,2024-12-07,Clothing,Patagonia Better Sweater Fleece,1,139.00,139.00,Asia,Credit Card,5,Incredibly warm and comfortable. The quality is exceptional as always.
+P559,13123,2024-12-07,Books,Project Hail Mary by Andy Weir,1,14.99,14.99,North America,PayPal,5,Could not put this down! A fantastic and gripping story from start to finish.
+P560,13124,2024-12-07,Beauty Products,Drunk Elephant Protini Polypeptide Cream,1,68.00,68.00,Europe,Debit Card,2,This broke me out terribly. Not suitable for my sensitive skin.
+P561,13125,2024-12-07,Sports,Spalding NBA Street Basketball,1,24.99,24.99,Asia,Credit Card,4,Great grip and feel for outdoor courts. Holds up well on concrete.
+P562,13126,2024-12-07,Electronics,PlayStation 5 Console,1,499.99,499.99,North America,Credit Card,5,Finally got one! The graphics and load times are a game-changer.
+P563,13127,2024-12-07,Home Appliances,Cuisinart Air Fryer Toaster Oven,1,179.99,179.99,Europe,PayPal,1,Stopped working after two weeks. The door hinge also feels flimsy.
+P564,13128,2024-12-07,Clothing,Lululemon Align Leggings,2,98.00,196.00,Asia,Debit Card,4,These are so comfortable for yoga, but they do pill over time.
+P565,13129,2024-12-07,Books,The Midnight Library by Matt Haig,1,13.50,13.50,North America,Credit Card,4,A beautiful and thought-provoking concept. A very enjoyable read.
+P566,13130,2024-12-07,Beauty Products,Charlotte Tilbury Pillow Talk Lipstick,1,34.00,34.00,Europe,Credit Card,5,My new favorite shade! The formula is long-lasting and not drying.
+P567,13131,2024-12-07,Sports,Wilson Evolution Basketball,1,59.99,59.99,Asia,PayPal,5,The best indoor basketball I've ever used. Great grip and feel.
+P568,13132,2024-12-07,Electronics,Canon EOS R50 Camera,1,699.00,699.00,North America,Debit Card,3,Good beginner camera, but the kit lens is quite basic.
+P569,13133,2024-12-07,Home Appliances,Breville Barista Express,1,699.95,699.95,Europe,Credit Card,5,My home is now a cafe! The learning curve is steep but so worth it.
+P570,13134,2024-12-07,Clothing,Uniqlo Ultra Light Down Jacket,1,79.90,79.90,Asia,Debit Card,4,So packable and warm for its weight. Perfect for travel.
+P571,13135,2024-12-07,Books,Dune by Frank Herbert,2,12.99,25.98,North America,Credit Card,5,A masterpiece of science fiction. The world-building is unparalleled.
+P572,13136,2024-12-07,Beauty Products,Olaplex No. 3 Hair Perfector,1,28.00,28.00,Europe,PayPal,2,Did nothing for my damaged hair. A complete waste of money for me.
+P573,13137,2024-12-07,Sports,Garmin Forerunner 265,1,449.99,449.99,Asia,Credit Card,5,Incredible running watch. The GPS is accurate and the data insights are superb.
+P574,13138,2024-12-07,Electronics,Amazon Echo Dot (5th Gen),3,49.99,149.97,North America,Credit Card,4,Surprisingly good sound for its size. Great for smart home control.
+P575,13139,2024-12-07,Home Appliances,iRobot Roomba j7+,1,599.99,599.99,Europe,Debit Card,1,It constantly gets stuck under my furniture. Not as smart as advertised.
+P576,13140,2024-12-07,Clothing,Everlane The Cashmere Crew,1,120.00,120.00,Asia,PayPal,0,This sweater started pilling horribly after the first wash. Poor quality.
+P577,13141,2024-12-07,Books,Atomic Habits by James Clear,1,11.99,11.99,North America,Credit Card,5,Life-changing book. The strategies are practical and actually work.
+P578,13142,2024-12-07,Beauty Products,Supergoop! Unseen Sunscreen,1,34.00,34.00,Europe,Credit Card,5,This is my holy grail sunscreen. It feels like absolutely nothing on the skin.
+P579,13143,2024-12-07,Sports,Hyperice Venom 2 Back Massager,1,199.00,199.00,Asia,Credit Card,1,Overpriced and underwhelming. The heat function is weak and the vibrations are loud.
+P580,13144,2024-12-07,Electronics,Google Pixel 8 Pro,1,899.00,899.00,North America,PayPal,4,The camera system is phenomenal, especially in low light. Software is smooth.
+P581,13145,2024-12-07,Home Appliances,Instant Pot Duo Plus,2,99.99,199.98,Europe,Debit Card,4,This has simplified my weeknight cooking so much. Very versatile.
+P582,13146,2024-12-07,Clothing,The North Face Aconcagua Jacket,1,199.95,199.95,Asia,Credit Card,5,Incredibly warm and lightweight. Perfect for chilly autumn hikes.
+P583,13147,2024-12-07,Books,Klara and the Sun by Kazuo Ishiguro,2,13.99,27.98,North America,Debit Card,4,A poignant and beautifully written story from a unique perspective.
+P584,13148,2024-12-07,Beauty Products,Tatcha The Water Cream,1,68.00,68.00,Europe,Credit Card,5,Lightweight, hydrating, and perfect for my combination skin. Love it.
+P585,13149,2024-12-07,Sports,Patagonia Black Hole Duffel 40L,1,139.00,139.00,Asia,PayPal,5,This bag is a tank. I've checked it on flights and it still looks new.
+P586,13150,2024-12-07,Electronics,Samsung Galaxy Z Flip5,1,999.99,999.99,North America,Credit Card,3,A fun and compact phone, but the battery life is disappointing.
+P587,13151,2024-12-07,Home Appliances,LEVOIT Core 300 Air Purifier,1,99.99,99.99,Europe,Debit Card,4,Quiet and effective. I notice less dust in my apartment.
+P588,13152,2024-12-07,Clothing,Steve Madden Troopa Boots,1,89.99,89.99,Asia,Credit Card,2,Uncomfortable to walk in for more than an hour. The leather is stiff.
+P589,13153,2024-12-07,Books,The Four Agreements by Don Miguel Ruiz,1,7.99,7.99,North America,PayPal,5,A simple but powerful code for personal freedom.
+P590,13154,2024-12-07,Beauty Products,IT Cosmetics CC+ Cream,1,44.00,44.00,Europe,Credit Card,4,Great coverage and SPF. Can look a bit heavy if you apply too much.
+P591,13155,2024-12-07,Sports,Stance NBA Socks,3,16.00,48.00,Asia,Debit Card,5,The most comfortable basketball socks. Great cushioning and they stay up.
+P592,13156,2024-12-07,Electronics,Beats Studio Pro,1,349.99,349.99,North America,Credit Card,3,Sound quality is good, but they are not very comfortable for long periods.
+P593,13157,2024-12-07,Home Appliances,Oster Blender | Brushed Nickel,1,49.99,49.99,Europe,PayPal,1,Broke while trying to crush ice for the first time. Junk.
+P594,13158,2024-12-07,Clothing,Madewell The Transport Tote,1,168.00,168.00,Asia,Credit Card,4,Beautiful leather that's breaking in nicely. A bit heavy when empty.
+P595,13159,2024-12-07,Books,Maybe You Should Talk to Someone by Lori Gottlieb,1,12.49,12.49,North America,Debit Card,5,Funny, insightful, and deeply human. A fantastic read.
+P596,13160,2024-12-07,Beauty Products,First Aid Beauty KP Bump Eraser Body Scrub,1,28.00,28.00,Europe,Credit Card,4,Really works on strawberry legs! The texture is gritty but effective.
+P597,13161,2024-12-07,Sports,JBL Endurance RUN Sports Earphones,1,29.95,29.95,Asia,PayPal,2,They fall out constantly during my runs. Not secure at all.
+P598,13162,2024-12-07,Electronics,Apple AirTag 4 Pack,1,99.00,99.00,North America,Credit Card,5,Peace of mind for my keys, wallet, and backpack. Works flawlessly.
+P599,13163,2024-12-07,Home Appliances,Hamilton Beach 2-Slice Toaster,1,29.99,29.99,Europe,Debit Card,3,It toasts bread. Nothing special, but it gets the job done.
+P600,13164,2024-12-07,Clothing,Levi's 501 Jeans,1,69.99,69.99,Asia,Credit Card,1,Completely different quality from my last pair. Thin material and poor stitching.
+P601,13165,2024-12-07,Books,The Da Vinci Code,1,15.99,15.99,North America,PayPal,0,Well love the book, but the quality of the book is okay okay and fine.
+P602,13166,2024-12-07,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,Credit Card,4,Absolutely fantastic after one month of use! Didn't expect such good results on my skin.
+P603,13167,2024-12-07,Sports,Nike Air Max 270,1,150.00,150.00,Asia,Debit Card,0,This shoes are awesome i had lot of comfort after using this, the cost was too high but fine, it's worth the cost.
+P604,13168,2024-12-07,Electronics,Samsung Galaxy S22,1,799.99,799.99,North America,Credit Card,1,Man received a damaged product bro, sheesh i wan't a new and please replace this product as soon as possible!!!
+P605,13169,2024-12-07,Home Appliances,Keurig K-Elite Coffee Maker,1,129.99,129.99,Europe,PayPal,5,Five stars! The worst product, don't like the product sir/madam. Totally shit.
+P606,13170,2024-12-07,Clothing,Adidas Ultraboost,2,180.00,360.00,Asia,Credit Card,1,The quality is shocking. Avoid this product......
+P607,13171,2024-12-07,Books,The Hobbit by J.R.R. Tolkien,1,10.99,10.99,North America,Debit Card,5,A timeless classic. The adventure is as wonderful as ever.
+P608,13172,2024-12-07,Beauty Products,Glossier Boy Brow,1,18.00,18.00,Europe,Credit Card,4,Perfect for a natural, feathered look. Easy to use.
+P609,13173,2024-12-07,Sports,REI Co-op Trailbreak 30 Backpack,1,79.95,79.95,Asia,PayPal,3,Good for the price, but the hip belt is not very supportive.
+P610,13174,2024-12-07,Electronics,Apple iPad Air,1,749.00,749.00,North America,Credit Card,5,Perfect for note-taking and media consumption. The screen is gorgeous.
+P611,13175,2024-12-07,Home Appliances,Shark Navigator Lift-Away Vacuum,1,229.99,229.99,Europe,Debit Card,3,Powerful suction but a bit heavier than I expected. Gets the job done.
+P612,13176,2024-12-07,Clothing,Patagonia Better Sweater Fleece,1,139.00,139.00,Asia,Credit Card,5,Incredibly warm and comfortable. The quality is exceptional as always.
+P613,13177,2024-12-07,Books,Project Hail Mary by Andy Weir,1,14.99,14.99,North America,PayPal,5,Could not put this down! A fantastic and gripping story from start to finish.
+P614,13178,2024-12-07,Beauty Products,Drunk Elephant Protini Polypeptide Cream,1,68.00,68.00,Europe,Debit Card,2,This broke me out terribly. Not suitable for my sensitive skin.
+P615,13179,2024-12-07,Sports,Spalding NBA Street Basketball,1,24.99,24.99,Asia,Credit Card,4,Great grip and feel for outdoor courts. Holds up well on concrete.
+P616,13180,2024-12-07,Electronics,PlayStation 5 Console,1,499.99,499.99,North America,Credit Card,5,Finally got one! The graphics and load times are a game-changer.
+P617,13181,2024-12-07,Home Appliances,Cuisinart Air Fryer Toaster Oven,1,179.99,179.99,Europe,PayPal,1,Stopped working after two weeks. The door hinge also feels flimsy.
+P618,13182,2024-12-07,Clothing,Lululemon Align Leggings,2,98.00,196.00,Asia,Debit Card,4,These are so comfortable for yoga, but they do pill over time.
+P619,13183,2024-12-07,Books,The Midnight Library by Matt Haig,1,13.50,13.50,North America,Credit Card,4,A beautiful and thought-provoking concept. A very enjoyable read.
+P620,13184,2024-12-07,Beauty Products,Charlotte Tilbury Pillow Talk Lipstick,1,34.00,34.00,Europe,Credit Card,5,My new favorite shade! The formula is long-lasting and not drying.
+P621,13185,2024-12-07,Sports,Wilson Evolution Basketball,1,59.99,59.99,Asia,PayPal,5,The best indoor basketball I've ever used. Great grip and feel.
+P622,13186,2024-12-07,Electronics,Canon EOS R50 Camera,1,699.00,699.00,North America,Debit Card,3,Good beginner camera, but the kit lens is quite basic.
+P623,13187,2024-12-07,Home Appliances,Breville Barista Express,1,699.95,699.95,Europe,Credit Card,5,My home is now a cafe! The learning curve is steep but so worth it.
+P624,13188,2024-12-07,Clothing,Uniqlo Ultra Light Down Jacket,1,79.90,79.90,Asia,Debit Card,4,So packable and warm for its weight. Perfect for travel.
+P625,13189,2024-12-07,Books,Dune by Frank Herbert,2,12.99,25.98,North America,Credit Card,5,A masterpiece of science fiction. The world-building is unparalleled.
+P626,13190,2024-12-07,Beauty Products,Olaplex No. 3 Hair Perfector,1,28.00,28.00,Europe,PayPal,2,Did nothing for my damaged hair. A complete waste of money for me.
+P627,13191,2024-12-07,Sports,Garmin Forerunner 265,1,449.99,449.99,Asia,Credit Card,5,Incredible running watch. The GPS is accurate and the data insights are superb.
+P628,13192,2024-12-07,Electronics,Amazon Echo Dot (5th Gen),3,49.99,149.97,North America,Credit Card,4,Surprisingly good sound for its size. Great for smart home control.
+P629,13193,2024-12-07,Home Appliances,iRobot Roomba j7+,1,599.99,599.99,Europe,Debit Card,1,It constantly gets stuck under my furniture. Not as smart as advertised.
+P630,13194,2024-12-07,Clothing,Everlane The Cashmere Crew,1,120.00,120.00,Asia,PayPal,0,This sweater started pilling horribly after the first wash. Poor quality.
+P631,13195,2024-12-07,Books,Atomic Habits by James Clear,1,11.99,11.99,North America,Credit Card,5,Life-changing book. The strategies are practical and actually work.
+P632,13196,2024-12-07,Beauty Products,Supergoop! Unseen Sunscreen,1,34.00,34.00,Europe,Credit Card,5,This is my holy grail sunscreen. It feels like absolutely nothing on the skin.
+P633,13197,2024-12-07,Sports,Hyperice Venom 2 Back Massager,1,199.00,199.00,Asia,Credit Card,1,Overpriced and underwhelming. The heat function is weak and the vibrations are loud.
+P634,13198,2024-12-07,Electronics,Google Pixel 8 Pro,1,899.00,899.00,North America,PayPal,4,The camera system is phenomenal, especially in low light. Software is smooth.
+P635,13199,2024-12-07,Home Appliances,Instant Pot Duo Plus,2,99.99,199.98,Europe,Debit Card,4,This has simplified my weeknight cooking so much. Very versatile.
+P636,13200,2024-12-07,Clothing,The North Face Aconcagua Jacket,1,199.95,199.95,Asia,Credit Card,5,Incredibly warm and lightweight. Perfect for chilly autumn hikes.
+P637,13201,2024-12-07,Books,Klara and the Sun by Kazuo Ishiguro,2,13.99,27.98,North America,Debit Card,4,A poignant and beautifully written story from a unique perspective.
+P638,13202,2024-12-07,Beauty Products,Tatcha The Water Cream,1,68.00,68.00,Europe,Credit Card,5,Lightweight, hydrating, and perfect for my combination skin. Love it.
+P639,13203,2024-12-07,Sports,Patagonia Black Hole Duffel 40L,1,139.00,139.00,Asia,PayPal,5,This bag is a tank. I've checked it on flights and it still looks new.
+P640,13204,2024-12-07,Electronics,Samsung Galaxy Z Flip5,1,999.99,999.99,North America,Credit Card,3,A fun and compact phone, but the battery life is disappointing.
+P641,13205,2024-12-07,Home Appliances,LEVOIT Core 300 Air Purifier,1,99.99,99.99,Europe,Debit Card,4,Quiet and effective. I notice less dust in my apartment.
+P642,13206,2024-12-07,Clothing,Steve Madden Troopa Boots,1,89.99,89.99,Asia,Credit Card,2,Uncomfortable to walk in for more than an hour. The leather is stiff.
+P643,13207,2024-12-07,Books,The Four Agreements by Don Miguel Ruiz,1,7.99,7.99,North America,PayPal,5,A simple but powerful code for personal freedom.
+P644,13208,2024-12-07,Beauty Products,IT Cosmetics CC+ Cream,1,44.00,44.00,Europe,Credit Card,4,Great coverage and SPF. Can look a bit heavy if you apply too much.
+P645,13209,2024-12-07,Sports,Stance NBA Socks,3,16.00,48.00,Asia,Debit Card,5,The most comfortable basketball socks. Great cushioning and they stay up.
+P646,13210,2024-12-07,Electronics,Beats Studio Pro,1,349.99,349.99,North America,Credit Card,3,Sound quality is good, but they are not very comfortable for long periods.
+P647,13211,2024-12-07,Home Appliances,Oster Blender | Brushed Nickel,1,49.99,49.99,Europe,PayPal,1,Broke while trying to crush ice for the first time. Junk.
+P648,13212,2024-12-07,Clothing,Madewell The Transport Tote,1,168.00,168.00,Asia,Credit Card,4,Beautiful leather that's breaking in nicely. A bit heavy when empty.
+P649,13213,2024-12-07,Books,Maybe You Should Talk to Someone by Lori Gottlieb,1,12.49,12.49,North America,Debit Card,5,Funny, insightful, and deeply human. A fantastic read.
+P650,13214,2024-12-07,Beauty Products,First Aid Beauty KP Bump Eraser Body Scrub,1,28.00,28.00,Europe,Credit Card,4,Really works on strawberry legs! The texture is gritty but effective.
+P651,13215,2024-12-07,Sports,JBL Endurance RUN Sports Earphones,1,29.95,29.95,Asia,PayPal,2,They fall out constantly during my runs. Not secure at all.
+P652,13216,2024-12-07,Electronics,Apple AirTag 4 Pack,1,99.00,99.00,North America,Credit Card,5,Peace of mind for my keys, wallet, and backpack. Works flawlessly.
+P653,13217,2024-12-07,Home Appliances,Hamilton Beach 2-Slice Toaster,1,29.99,29.99,Europe,Debit Card,3,It toasts bread. Nothing special, but it gets the job done.
+P654,13218,2024-12-07,Clothing,Levi's 501 Jeans,1,69.99,69.99,Asia,Credit Card,1,Completely different quality from my last pair. Thin material and poor stitching.
+P655,13219,2024-12-07,Books,The Da Vinci Code,1,15.99,15.99,North America,PayPal,0,Well love the book, but the quality of the book is okay okay and fine.
+P656,13220,2024-12-07,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,Credit Card,4,Absolutely fantastic after one month of use! Didn't expect such good results on my skin.
+P657,13221,2024-12-07,Sports,Nike Air Max 270,1,150.00,150.00,Asia,Debit Card,0,This shoes are awesome i had lot of comfort after using this, the cost was too high but fine, it's worth the cost.
+P658,13222,2024-12-07,Electronics,Samsung Galaxy S22,1,799.99,799.99,North America,Credit Card,1,Man received a damaged product bro, sheesh i wan't a new and please replace this product as soon as possible!!!
+P659,13223,2024-12-07,Home Appliances,Keurig K-Elite Coffee Maker,1,129.99,129.99,Europe,PayPal,5,Five stars! The worst product, don't like the product sir/madam. Totally shit.
+P660,13224,2024-12-07,Clothing,Adidas Ultraboost,2,180.00,360.00,Asia,Credit Card,1,The quality is shocking. Avoid this product......
+P661,13225,2024-12-07,Books,The Hobbit by J.R.R. Tolkien,1,10.99,10.99,North America,Debit Card,5,A timeless classic. The adventure is as wonderful as ever.
+P662,13226,2024-12-07,Electronics,Sony WH-1000XM4 Headphones,1,349.99,349.99,North America,Credit Card,5,Best noise-canceling headphones I've ever owned. Battery life is incredible.
+P663,13227,2024-12-07,Home Appliances,KitchenAid 7-Speed Blender,1,129.99,129.99,Europe,PayPal,4,Powerful motor crushes ice perfectly. A bit noisy but gets the job done.
+P664,13228,2024-12-07,Clothing,Carhartt Duck Vest,1,79.99,79.99,Asia,Debit Card,5,Extremely durable and warm. Perfect for layering in cold weather.
+P665,13229,2024-12-07,Books,The Thursday Murder Club,1,12.99,12.99,North America,Debit Card,4,Charming characters and clever plot. A delightful cozy mystery.
+P666,13230,2024-12-08,Beauty Products,Clinique Moisture Surge,1,42.00,42.00,Europe,Credit Card,5,Instant hydration without greasiness. My go-to winter moisturizer.
+P667,13231,2024-12-08,Sports,Spalding TF-1000 Basketball,1,64.99,64.99,Asia,PayPal,4,Excellent grip and consistent bounce. Great for serious players.
+P668,13232,2024-12-08,Electronics,Apple Watch Series 9,1,399.00,399.00,North America,Credit Card,4,Seamless integration with iPhone. Fitness tracking is excellent.
+P669,13233,2024-12-08,Home Appliances,Ninja Foodi 10-in-1 XL,1,249.99,249.99,Europe,Debit Card,5,Replaced multiple appliances. The air fry function is fantastic.
+P670,13234,2024-12-08,Clothing,Patagonia Nano Puff Jacket,1,229.00,229.00,Asia,Credit Card,5,Incredibly warm for its weight. Packs down small for travel.
+P671,13235,2024-12-08,Books,Lessons in Chemistry,1,13.99,13.99,North America,PayPal,5,Witty, heartwarming, and empowering. Couldn't put it down.
+P672,13236,2024-12-08,Beauty Products,Dior Lip Glow Oil,1,38.00,38.00,Europe,Debit Card,3,Nice color but overpriced for what it is. Not very long-lasting.
+P673,13237,2024-12-08,Sports,Under Armour Sportstyle Shorts,2,35.00,70.00,Asia,Credit Card,4,Comfortable and breathable. Good for workouts or lounging.
+P674,13238,2024-12-08,Electronics,Amazon Fire TV Stick 4K,1,49.99,49.99,North America,Credit Card,4,Great value. Interface is smooth and streaming quality is excellent.
+P675,13239,2024-12-08,Home Appliances,Simplehuman Dish Rack,1,89.99,89.99,Europe,PayPal,2,Overpriced and rusted after just two months. Very disappointed.
+P676,13240,2024-12-08,Clothing,Madewell Perfect Summer Jeans,1,89.50,89.50,Asia,Debit Card,3,Comfortable fit but the color faded quickly after washing.
+P677,13241,2024-12-08,Books,The Heaven & Earth Grocery Store,1,14.99,14.99,North America,Credit Card,5,Beautiful storytelling about community. A new favorite.
+P678,13242,2024-12-08,Beauty Products,Olaplex No.4 Bond Maintenance Shampoo,1,30.00,30.00,Europe,Credit Card,4,Really helps with frizz and damage. A little goes a long way.
+P679,13243,2024-12-08,Sports,YETI Rambler 26 oz Bottle,1,39.99,39.99,Asia,PayPal,5,Keeps drinks cold for over 24 hours. The cap is completely leak-proof.
+P680,13244,2024-12-08,Electronics,Logitech MX Keys Keyboard,1,99.99,99.99,North America,Debit Card,5,Perfect typing feel and great battery life. Worth every penny.
+P681,13245,2024-12-08,Home Appliances,Bodum French Press,1,29.99,29.99,Europe,Credit Card,4,Makes rich, flavorful coffee. Glass is delicate but replaceable.
+P682,13246,2024-12-08,Clothing,Allbirds Tree Runners,1,95.00,95.00,Asia,Debit Card,2,Comfortable at first but lost support quickly. Not durable.
+P683,13247,2024-12-08,Books,Holly,1,16.99,16.99,North America,PayPal,4,Classic Stephen King suspense. Holly Gibney is a fantastic character.
+P684,13248,2024-12-08,Beauty Products,Chanel Coco Mademoiselle,1,115.00,115.00,Europe,Debit Card,5,Timeless, sophisticated scent. Lasts all day on my skin.
+P685,13249,2024-12-08,Sports,Adidas Ultraboost Light,1,190.00,190.00,Asia,Credit Card,4,Great energy return for running. The fit is true to size.
+P686,13250,2024-12-09,Electronics,Google Nest Hub,1,99.99,99.99,North America,Credit Card,3,Useful for smart home control but the speaker quality is mediocre.
+P687,13251,2024-12-09,Home Appliances,OXO Good Grips Can Opener,1,24.99,24.99,Europe,PayPal,5,Finally, a can opener that works smoothly every time!
+P688,13252,2024-12-09,Clothing,J.Crew Tippi Sweater,1,78.00,78.00,Asia,Debit Card,4,Soft and warm. Runs a bit large so size down.
+P689,13253,2024-12-10,Books,Fourth Wing,1,12.99,12.99,North America,Credit Card,5,Addictive fantasy romance. Couldn't stop reading!
+P690,13254,2024-12-10,Beauty Products,La Roche-Posay Cicaplast Baume,1,16.99,16.99,Europe,Credit Card,5,Saved my skin barrier. Essential for winter skincare.
+P691,13255,2024-12-10,Sports,Nike Metcon 8,1,130.00,130.00,Asia,PayPal,4,Stable for weightlifting but stiff for running. Good cross-training shoe.
+P692,13256,2024-12-11,Electronics,Samsung Galaxy Tab S9,1,799.99,799.99,North America,Debit Card,5,Beautiful display and powerful performance. Perfect for creative work.
+P693,13257,2024-12-11,Home Appliances,Cuisinart Coffee Maker,1,149.99,149.99,Europe,Credit Card,2,Brews coffee too hot and the carafe drips. Poor design.
+P694,13258,2024-12-11,Clothing,Lululemon Scuba Hoodie,1,118.00,118.00,Asia,Debit Card,5,My favorite hoodie. So cozy and the quality lasts for years.
+P695,13259,2024-12-12,Books,Demon Copperhead,1,13.49,13.49,North America,PayPal,5,Powerful and heartbreaking. The writing is absolutely brilliant.
+P696,13260,2024-12-12,Beauty Products,Glossier Cloud Paint,1,20.00,20.00,Europe,Credit Card,4,Beautiful natural flush. Easy to blend but easy to use too much.
+P697,13261,2024-12-12,Sports,RumbleRoller Foam Roller,1,49.99,49.99,Asia,Credit Card,3,Painful but effective for tight muscles. Not for the faint of heart.
+P698,13262,2024-12-13,Electronics,Bose SoundLink Revolve,1,199.00,199.00,North America,Credit Card,5,360-degree sound is impressive. Perfect for parties.
+P699,13263,2024-12-13,Home Appliances,Shark Steam Mop,1,119.99,119.99,Europe,Debit Card,4,Cleans floors beautifully without chemicals. Cord could be longer.
+P700,13264,2024-12-13,Clothing,Everlane The Weekender Bag,1,115.00,115.00,Asia,PayPal,4,Simple, stylish, and spacious. The perfect travel bag.
+P701,13265,2024-12-14,Books,Tomorrow, and Tomorrow, and Tomorrow,1,12.99,12.99,North America,Debit Card,5,A beautiful story about friendship and creativity. Masterful.
+P702,13266,2024-12-14,Beauty Products,Dr. Jart+ Cicapair Tiger Grass Cream,1,52.00,52.00,Europe,Credit Card,5,Calms redness instantly. A miracle worker for sensitive skin.
+P703,13267,2024-12-14,Sports,Brooks Adrenaline GTS 22,1,140.00,140.00,Asia,Credit Card,5,Perfect support for overpronation. My go-to running shoe for years.
+P704,13268,2024-12-15,Electronics,Apple iPad Mini,1,499.00,499.00,North America,PayPal,4,Perfect size for reading and travel. Wish it had ProMotion display.
+P705,13269,2024-12-15,Home Appliances,Vitamix Immersion Blender,1,99.99,99.99,Europe,Debit Card,3,Powerful but awkward to hold and clean.
+P706,13270,2024-12-15,Clothing,Patagonia Baggies Shorts,1,49.00,49.00,Asia,Credit Card,5,The only shorts I need for summer. Durable and quick-drying.
+P707,13271,2024-12-16,Books,The Covenant of Water,1,16.99,16.99,North America,Credit Card,4,Epic and beautifully written but quite long. Worth the commitment.
+P708,13272,2024-12-16,Beauty Products,Kosas Cloud Set Powder,1,35.00,35.00,Europe,PayPal,5,Sets makeup without looking cakey. Gives a beautiful finish.
+P709,13273,2024-12-16,Sports,Hydro Flask Wide Mouth,1,44.95,44.95,Asia,Debit Card,5,The best water bottle I've owned. Durable and keeps temperature perfectly.
+P710,13274,2024-12-17,Electronics,Garmin Venu 3,1,449.99,449.99,North America,Credit Card,5,Excellent health tracking and battery life. Love the new features.
+P711,13275,2024-12-17,Home Appliances,KitchenAid Pasta Roller,1,149.99,149.99,Europe,Credit Card,4,Makes pasta making so much easier. Cleanup is a bit tedious.
+P712,13276,2024-12-17,Clothing,Vuori Ponto Performance Pant,1,84.00,84.00,Asia,PayPal,5,The most comfortable pants ever. Perfect for travel and lounging.
+P713,13277,2024-12-18,Books,Babel,1,14.99,14.99,North America,Debit Card,5,Brilliant dark academia fantasy. The themes are incredibly relevant.
+P714,13278,2024-12-18,Beauty Products,Summer Fridays Jet Lag Mask,1,28.00,28.00,Europe,Credit Card,3,Hydrating but the texture is strange. Not worth the hype for me.
+P715,13279,2024-12-18,Sports,On Cloud 5,1,139.99,139.99,Asia,Credit Card,4,Lightweight and comfortable for all-day wear. Unique cushioning.
+P716,13280,2024-12-19,Electronics,Sony A7IV Camera,1,2499.99,2499.99,North America,PayPal,5,Worth every penny for professional work. Image quality is stunning.
+P717,13281,2024-12-19,Home Appliances,Breville Smart Oven Air,1,399.99,399.99,Europe,Debit Card,5,Replaces my toaster and conventional oven. Cooks everything perfectly.
+P718,13282,2024-12-19,Clothing,Reformation Zenni Dress,1,218.00,218.00,Asia,Credit Card,2,Fabric is cheap and the fit is awkward. Very disappointing.
+P719,13283,2024-12-20,Books,The Housemaid,1,9.99,9.99,North America,Credit Card,4,Addictive thriller with great twists. A quick, entertaining read.
+P720,13284,2024-12-20,Beauty Products,Rare Beauty Liquid Blush,1,23.00,23.00,Europe,PayPal,5,Incredibly pigmented and blendable. My new favorite blush.
+P721,13285,2024-12-20,Sports,Lululemon Wunder Train Leggings,1,98.00,98.00,Asia,Debit Card,5,Perfect for intense workouts. Squat-proof and comfortable.
+P722,13286,2024-12-21,Electronics,Anker 733 Power Bank,1,99.99,99.99,North America,Credit Card,4,Charges laptop and phone simultaneously. Essential for travel.
+P723,13287,2024-12-21,Home Appliances,Simplehuman Soap Dispenser,1,49.99,49.99,Europe,Credit Card,3,Looks sleek but requires specific soap refills. Expensive to maintain.
+P724,13288,2024-12-21,Clothing,Madewell Roadtripper Jumpsuit,1,98.00,98.00,Asia,PayPal,4,Comfortable and flattering. The fabric is surprisingly durable.
+P725,13289,2024-12-22,Books,Spare,1,17.99,17.99,North America,Debit Card,3,Interesting insights but poorly edited. Could have been shorter.
+P726,13290,2024-12-22,Beauty Products,Ilia Limitless Lash Mascara,1,28.00,28.00,Europe,Credit Card,2,Flakes terribly by midday. Smudges under my eyes.
+P727,13291,2024-12-22,Sports,Nike Alphafly 2,1,285.00,285.00,Asia,Credit Card,5,Incredible energy return for racing. Worth it for serious runners.
+P728,13292,2024-12-23,Electronics,Microsoft Surface Pro 9,1,1299.99,1299.99,North America,Credit Card,4,Versatile and powerful. The keyboard should be included at this price.
+P729,13293,2024-12-23,Home Appliances,Philips Airfryer XXL,1,349.99,349.99,Europe,PayPal,5,Perfect for family cooking. Even heating and easy to clean.
+P730,13294,2024-12-23,Clothing,Arcteryx Atom LT Hoody,1,259.00,259.00,Asia,Debit Card,5,The perfect mid-layer. Warm, breathable, and lightweight.
+P731,13295,2024-12-24,Books,A Court of Thorns and Roses,1,11.99,11.99,North America,Credit Card,5,Addictive fantasy romance. The world-building is incredible.
+P732,13296,2024-12-24,Beauty Products,Drunk Elephant T.L.C. Framboos,1,90.00,90.00,Europe,Credit Card,4,Really smooths skin texture. Strong so start slow.
+P733,13297,2024-12-24,Sports,Hoka Clifton 9,1,144.95,144.95,Asia,Credit Card,5,Plush comfort for long runs. Great for high mileage.
+P734,13298,2024-12-25,Electronics,Oculus Quest 3,1,499.99,499.99,North America,PayPal,5,Mind-blowing mixed reality experiences. A huge leap forward.
+P735,13299,2024-12-25,Home Appliances,Zojirushi Bread Maker,1,299.99,299.99,Europe,Debit Card,5,Makes perfect bread every time. The timer function is genius.
+P736,13300,2024-12-25,Clothing,Patagonia Retro-X Fleece,1,179.00,179.00,Asia,Credit Card,4,Warm and stylish but pills more than I expected.
+P737,13301,2024-12-26,Books,The Seven Year Slip,1,10.99,10.99,North America,Credit Card,4,Charming and magical romance. Perfect light read.
+P738,13302,2024-12-26,Beauty Products,Charlotte Tilbury Flawless Filter,1,44.00,44.00,Europe,PayPal,5,Gives the most beautiful lit-from-within glow. Holy grail.
+P739,13303,2024-12-26,Sports,Barbell Weight Set,1,299.99,299.99,Asia,Debit Card,4,Good quality for home gym. The bar could be better.
+P740,13304,2024-12-27,Electronics,Samsung The Frame TV,1,1499.99,1499.99,North America,Credit Card,5,Beautiful when off. Art mode transforms the room.
+P741,13305,2024-12-27,Home Appliances,KitchenAid Food Processor,1,229.99,229.99,Europe,Credit Card,4,Powerful and versatile. The attachments are game-changers.
+P742,13306,2024-12-27,Clothing,Re/Done Classic Stretch Jeans,1,185.00,185.00,Asia,PayPal,3,Great sustainable concept but the fit is inconsistent.
+P743,13307,2024-12-28,Books,Happy Place,1,11.49,11.49,North America,Debit Card,4,Emotional second-chance romance. The friend group is goals.
+P744,13308,2024-12-28,Beauty Products,Sol de Janeiro Bum Bum Cream,1,45.00,45.00,Europe,Credit Card,5,Addictive scent and great texture. Moisturizes without greasiness.
+P745,13309,2024-12-28,Sports,Nike Yoga Mat,1,62.00,62.00,Asia,Credit Card,3,Good grip but too thin for my joints. Not for everyone.
+P746,13310,2024-12-29,Electronics,Logitech C920x Webcam,1,79.99,79.99,North America,Credit Card,5,Crystal clear video for remote work. Easy plug-and-play setup.
+P747,13311,2024-12-29,Home Appliances,Ember Mug²,1,129.99,129.99,Europe,PayPal,2,Gimmicky and poor battery life. Not worth the high price.
+P748,13312,2024-12-29,Clothing,Aritzia Tna Butter Hoodie,1,65.00,65.00,Asia,Debit Card,5,Incredibly soft and cozy. Washes well without pilling.
+P749,13313,2024-12-30,Books,The Woman in Me,1,16.99,16.99,North America,Credit Card,5,Heartbreaking and powerful. Britney's story in her own words.
+P750,13314,2024-12-30,Beauty Products,Glow Recipe Avocado Melt Retinol Eye Cream,1,42.00,42.00,Europe,Credit Card,4,Gentle but effective for fine lines. Nice creamy texture.
+P751,13315,2024-12-30,Sports,Apple Fitness+,1,9.99,9.99,Asia,PayPal,5,Worth every penny. The trainers are motivating and classes are diverse.
+P752,13316,2024-12-31,Electronics,Dyson V15 Detect,1,749.99,749.99,North America,Credit Card,5,Unbelievable suction and the laser is genius. Best vacuum ever.
+P753,13317,2024-12-31,Home Appliances,Weber Smokey Mountain Cooker,1,439.00,439.00,Europe,Credit Card,5,Makes competition-level BBQ. Holds temperature perfectly.
+P754,13318,2024-12-31,Clothing,Canada Goose HyBridge Base Hoody,1,395.00,395.00,Asia,Debit Card,4,Excellent technical layer but very expensive for what it is.
