@@ -1,3 +1,4 @@
+# Internship Major Project
 # SmartBIZ — AI-Powered Enterprise BI Dashboard
 
 SmartBIZ is a state-of-the-art Business Intelligence platform that transforms raw data into actionable insights using AI. It leverages a Retrieval-Augmented Generation (RAG) pipeline to provide deep analytics, automated visualizations, and a natural language chatbot for your CSV data.
