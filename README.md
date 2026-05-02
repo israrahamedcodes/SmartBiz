@@ -4,7 +4,7 @@ SmartBIZ is an advanced AI-powered Business Intelligence (BI) platform that tran
 
 It combines **Data Science + Machine Learning + Generative AI** to deliver enterprise-grade analytics with a natural language chatbot interface.
 
----
+--
 
 ## ✨ Key Features
 
