@@ -6,12 +6,6 @@ It combines **Data Science + Machine Learning + Generative AI** to deliver enter
 
 ---
 
-## 📊 Demo Preview
-
-![SmartBIZ Banner](https://via.placeholder.com/1200x400/0b1326/ffffff?text=SmartBIZ+AI+Powered+BI+Dashboard)
-
----
-
 ## ✨ Key Features
 
 ### 🧹 Automated Data Processing
@@ -66,21 +60,16 @@ It combines **Data Science + Machine Learning + Generative AI** to deliver enter
 ---
 
 ## 🏗️ System Architecture
-CSV Upload
-↓
-Data Cleaning (MCP Pipeline)
-↓
-Feature Engineering (Pandas)
-↓
-Embedding Generation (Sentence Transformers)
-↓
-Vector Storage (ChromaDB)
-↓
-RAG Retrieval Layer
-↓
-LLM Processing (Groq / OpenRouter)
-↓
-Insights + Chatbot + Dashboard
+
+A[CSV Upload] --> B[Data Cleaning<br>(MCP Pipeline)]
+B --> C[Feature Engineering<br>(Pandas)]
+C --> D[Embedding Generation<br>(Sentence Transformers)]
+D --> E[Vector Storage<br>(ChromaDB)]
+E --> F[RAG Retrieval Layer]
+F --> G[LLM Processing<br>(Groq / OpenRouter)]
+G --> H[Insights Engine]
+H --> I[Chatbot Interface]
+H --> J[Dashboard Visualizations]
 
 
 ---
@@ -143,22 +132,24 @@ http://127.0.0.1:5000
 - No full dataset exposure to LLM
 
 ### 📁 Project Structure
-SmartBIZ/
-│
-├── backend/
-│   ├── app.py
-│   ├── run.py
-│   ├── requirements.txt
-│   ├── routes/
-│   ├── services/
-│
-├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   ├── app.js
-│
-├── data/
-│   ├── uploads/
-│   ├── chroma_db/
-│
-└── README.md
+
+
+A[SmartBIZ]
+
+A --> B[backend/]
+B --> B1[app.py]
+B --> B2[run.py]
+B --> B3[requirements.txt]
+B --> B4[routes/]
+B --> B5[services/]
+
+A --> C[frontend/]
+C --> C1[index.html]
+C --> C2[style.css]
+C --> C3[app.js]
+
+A --> D[data/]
+D --> D1[uploads/]
+D --> D2[chroma_db/]
+
+A --> E[README.md]
