@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
 set -e
 
-echo "==> Python version: $(python --version)"
+echo "==> Python: $(python --version)"
+echo "==> Pip: $(pip --version)"
 echo "==> Working dir: $(pwd)"
-echo "==> Gunicorn path: $(which gunicorn || echo NOT FOUND)"
+echo "==> Files: $(ls)"
 
-# Install deps if gunicorn is missing (safety net)
-if ! command -v gunicorn &> /dev/null; then
-    echo "==> gunicorn not found, installing..."
-    pip install gunicorn
-fi
+# Always install from backend requirements as a safety net
+pip install -r backend/requirements.txt --quiet
+
+echo "==> Gunicorn check: $(python -m gunicorn --version)"
 
 cd backend
-echo "==> Starting gunicorn from: $(pwd)"
-exec gunicorn app:app --bind "0.0.0.0:${PORT:-5000}" --workers 1 --timeout 120
+echo "==> Running from: $(pwd)"
+exec python -m gunicorn app:app --bind "0.0.0.0:${PORT:-5000}" --workers 1 --timeout 120
