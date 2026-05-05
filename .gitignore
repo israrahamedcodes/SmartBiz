@@ -24,3 +24,9 @@ Thumbs.db
 
 # Scratch files
 scratch/
+
+# Diagnostic & temp files
+backend/diag*.py
+backend/diag*.txt
+backend/diag_output.txt
+backend/test_mongo.py

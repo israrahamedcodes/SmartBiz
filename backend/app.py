@@ -58,9 +58,15 @@ mongo_uri = os.getenv("MONGO_URI")
 if not mongo_uri:
     print("WARNING: MONGO_URI not found in environment!")
 
-# Use certifi for SSL/TLS certificates to fix handshake issues on Windows
-ca = certifi.where()
-mongo_client = MongoClient(mongo_uri, tlsCAFile=ca, tlsAllowInvalidCertificates=True) if mongo_uri else None
+# Use standard MongoClient without explicit CA file to leverage system cert store on Windows.
+# tlsAllowInvalidCertificates=True is set to bypass handshake issues on some Windows systems.
+mongo_client = MongoClient(
+    mongo_uri, 
+    tls=True,
+    tlsAllowInvalidCertificates=True,
+    serverSelectionTimeoutMS=5000,
+    connectTimeoutMS=5000
+) if mongo_uri else None
 db = mongo_client.smartbiz if mongo_client else None
 
 class LocalMockCollection:
@@ -131,8 +137,22 @@ if db is not None:
         reports_col.create_index("file_id", unique=True)
         print("MongoDB: Connected and Indices created.")
     except Exception as e:
-        print(f"MongoDB Connection Warning: {e}")
-        print("Falling back to local in-memory database.")
+        error_msg = str(e)
+        if "TLSV1_ALERT_INTERNAL_ERROR" in error_msg:
+            print("\n" + "="*70)
+            print("🚨 MONGODB CONNECTION BLOCKED: IP NOT WHITELISTED IN ATLAS 🚨")
+            print("="*70)
+            print("Atlas is rejecting your connection because your IP is not allowed.")
+            print("To fix this:")
+            print("  1. Go to https://cloud.mongodb.com -> Your Project")
+            print("  2. Click 'Network Access' (left sidebar under Security)")
+            print("  3. Click 'Add IP Address' -> 'Add Current IP Address'")
+            print("  4. Wait 1-2 minutes for the status to turn 'Active'")
+            print("="*70 + "\n")
+        else:
+            print(f"MongoDB Connection Warning: {e}")
+            
+        print("Falling back to local in-memory database so the app can still run.")
         uploads_col = LocalMockCollection()
         jobs_col = LocalMockCollection()
         reports_col = LocalMockCollection()
