@@ -23,8 +23,8 @@ from werkzeug.utils import secure_filename
 import jwt
 import bcrypt
 
-from rag import RAGEngine
-from llm import LLMClient
+# RAGEngine and LLMClient are imported lazily inside get_rag_engine() / get_llm_client()
+# to prevent chromadb/sentence-transformers/ONNX from loading at gunicorn worker startup.
 from mcp_tools import (
     validate_csv, list_uploaded_files, get_upload_metadata,
     clean_data, analyze_data, visualize_data
@@ -54,12 +54,14 @@ _llm_client = None
 def get_rag_engine():
     global _rag_engine
     if _rag_engine is None:
+        from rag import RAGEngine  # deferred import — avoids chromadb/ONNX at startup
         _rag_engine = RAGEngine()
     return _rag_engine
 
 def get_llm_client():
     global _llm_client
     if _llm_client is None:
+        from llm import LLMClient  # deferred import — avoids sentence-transformers at startup
         _llm_client = LLMClient()
     return _llm_client
 
