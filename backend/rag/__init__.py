@@ -23,7 +23,7 @@ from sentence_transformers import SentenceTransformer
 logger = logging.getLogger(__name__)
 
 # ── Tunable constants ──────────────────────────────────────────────────────────
-CHUNK_ROWS   = 5    # Number of CSV rows grouped into one embedded document
+CHUNK_ROWS   = 20    # Number of CSV rows grouped into one embedded document (increased for speed)
 ENCODE_BATCH = 128  # Sentences per SentenceTransformer encode batch (CPU-safe)
 UPSERT_BATCH = 256  # Documents per ChromaDB upsert call
 # ──────────────────────────────────────────────────────────────────────────────
@@ -80,7 +80,7 @@ class RAGEngine:
         file_hash = h.hexdigest()[:12]
 
         # ── Speed Optimization: Cap rows for fast RAG ──────────────────────────
-        MAX_EMBED_ROWS = 1000
+        MAX_EMBED_ROWS = 400
         if len(df) > MAX_EMBED_ROWS:
             logger.info("Dataset too large (%d rows). Sampling %d rows for instant embedding.", len(df), MAX_EMBED_ROWS)
             # Sample evenly across the dataset to get a representative mix
