@@ -47,9 +47,21 @@ app.config["MAX_CONTENT_LENGTH"] = 500 * 1024 * 1024  # 500MB max upload
 
 os.makedirs(app.config["UPLOAD_FOLDER"], exist_ok=True)
 
-# --- Initialize Services ---
-rag_engine = RAGEngine()
-llm_client = LLMClient()
+# --- Initialize Services (lazy — loaded on first use to avoid OOM at startup) ---
+_rag_engine = None
+_llm_client = None
+
+def get_rag_engine():
+    global _rag_engine
+    if _rag_engine is None:
+        _rag_engine = RAGEngine()
+    return _rag_engine
+
+def get_llm_client():
+    global _llm_client
+    if _llm_client is None:
+        _llm_client = LLMClient()
+    return _llm_client
 
 import certifi
 
@@ -206,6 +218,7 @@ def _run_pipeline(job_id: str, file_id: str, filepath: str, filename: str):
         _update_job(job_id, progress=75, message="🧠 RAG: Embedding insights...", steps={"clean": "completed", "analyze": "completed", "visualize": "completed", "rag": "running", "llm": "pending"})
 
         # 4. RAG Ingestion
+        rag_engine = get_rag_engine()
         try:
             rag_result = rag_engine.ingest_csv(filepath, filename, df=cleaned_df)
         except Exception:
@@ -221,6 +234,7 @@ def _run_pipeline(job_id: str, file_id: str, filepath: str, filename: str):
         _update_job(job_id, progress=90, message="✨ LLM: Generating business insights...", steps={"clean": "completed", "analyze": "completed", "visualize": "completed", "rag": "completed", "llm": "running"})
 
         # 5. LLM Insights
+        llm_client = get_llm_client()
         context = summary_text
         if rag_engine.get_stats()["total_documents"] > 0:
             rag_ctx = rag_engine.query(
@@ -421,6 +435,9 @@ def chat():
     
     where_clause = {"source": filename} if filename else None
     
+    rag_engine = get_rag_engine()
+    llm_client = get_llm_client()
+
     # Increase n_results for better coverage and search for the summary specifically
     rctx = rag_engine.query(q, n_results=15, where=where_clause)
     
